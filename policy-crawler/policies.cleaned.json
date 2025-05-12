@@ -1,0 +1,1242 @@
+{
+  "lastUpdated": "2025-05-12T20:59:58.330Z",
+  "policies": [
+    {
+      "name": "The AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-01-24",
+          "change": "Technical negotiations on the AI Act concluded"
+        },
+        {
+          "date": "2024-07-12",
+          "change": "AI Act published in the Official Journal of the European Union"
+        },
+        {
+          "date": "2024-08-01",
+          "change": "AI Act entered into force"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-02-02",
+          "event": "Start of enforcement activities on EU level"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "AI Act becomes applicable"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "Compliance required for certain AI systems and GPAI models"
+        },
+        {
+          "date": "2030-12-31",
+          "event": "Compliance required for AI systems which are components of large-scale IT systems"
+        },
+        {
+          "date": "2031-12-31",
+          "event": "Completion of ex-post evaluation of the law"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Implementer and Enforcer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/responsibilities-of-european-commission-ai-office/"
+    },
+    {
+      "name": "EU AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-07-12",
+          "change": "AI Act published in the Official Journal of the EU"
+        },
+        {
+          "date": "2024-08-01",
+          "change": "AI Act entered into force"
+        },
+        {
+          "date": "2024-11-02",
+          "change": "Member States identified authorities for fundamental rights protection"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-02-02",
+          "event": "Prohibitions on certain AI systems start to apply"
+        },
+        {
+          "date": "2025-05-02",
+          "event": "Codes of practice to be ready"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Rules on Notified bodies, GPAI models, Governance, Confidentiality, Penalties start to apply"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Providers of GPAI models need to be compliant by 2 August 2027"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Member States to report on the status of the financial and human resources of the national competent authorities"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Member States to designate national competent authorities"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Member States to lay down rules for penalties and fines"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Commission may provide common rules for the implementation of the obligations for providers of GPAI models"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Annual Commission review and possible amendments on prohibitions"
+        },
+        {
+          "date": "2026-02-02",
+          "event": "Commission to provide guidelines specifying the practical implementation of Article 6"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "The remainder of the AI Act starts to apply"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "Regulation applies to operators of high-risk AI systems"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "Member States to establish at least one AI regulatory sandbox at national level"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "Article 6(1) and the corresponding obligations in the Regulation start to apply"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "Providers of GPAI models must comply with the obligations laid down in this Regulation"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "AI systems which are components of the large-scale IT systems must be brought into compliance with this Regulation by 31 December 2030"
+        },
+        {
+          "date": "2028-08-02",
+          "event": "Commission to evaluate the functioning of the AI Office"
+        },
+        {
+          "date": "2028-08-02",
+          "event": "Commission to evaluate the impact and effectiveness of voluntary codes of conduct"
+        },
+        {
+          "date": "2028-08-02",
+          "event": "Commission to evaluate and report on the need for amendments to Area headings in Annex III, List of AI systems requiring additional transparency measures in Article 50, The supervision and governance system"
+        },
+        {
+          "date": "2028-08-02",
+          "event": "Commission to submit a progress report on ‘standardisation deliverables’"
+        },
+        {
+          "date": "2028-12-01",
+          "event": "Commission to draw up a report on the delegation of power outlined in Article 97"
+        },
+        {
+          "date": "2029-08-01",
+          "event": "The Commission’s power to adopt delegated acts referred to in the following articles expires"
+        },
+        {
+          "date": "2029-08-02",
+          "event": "Commission to submit a report on the evaluation and review of this Regulation"
+        },
+        {
+          "date": "2030-08-02",
+          "event": "Providers and deployers of high-risk AI systems intended to be used by public authorities must comply with the requirements and obligations of this Regulation"
+        },
+        {
+          "date": "2030-12-31",
+          "event": "Deadline for AI systems which are components of the large-scale IT systems to be brought into compliance with this Regulation"
+        },
+        {
+          "date": "2031-08-02",
+          "event": "Commission to carry out an assessment of the enforcement of this Regulation"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/implementation-timeline/"
+    },
+    {
+      "name": "Code of Practice for the AI Act",
+      "region": "European Union",
+      "status": "In Development",
+      "progress": 75,
+      "recentChanges": [
+        {
+          "date": "2024-10-01",
+          "change": "Drafting process for the Code of Practice began"
+        },
+        {
+          "date": "2025-03-11",
+          "change": "Publication of the third draft of the Code of Practice"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-05-01",
+          "event": "Expected finalization of the Code of Practice"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "GPAI model provider obligations come into effect"
+        },
+        {
+          "date": "2027-08-01",
+          "event": "Expected adoption of standards"
+        }
+      ],
+      "leader": {
+        "name": "Jimmy Farrell and Tekla Emborg",
+        "role": "EU AI policy co-lead and Policy Researcher",
+        "organization": "Pour Demain and Future of Life Institute"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/introduction-to-code-of-practice/"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-12-16",
+          "change": "Opened calls for new members for the European AI Office"
+        },
+        {
+          "date": "2025-04-22",
+          "change": "Published preliminary guidelines for providers of GPAI models"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-01-15",
+          "event": "Deadline for expression of interest for European AI Office roles"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "Each Member State must establish at least one AI regulatory sandbox"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Regulator",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/job-opportunities-european-ai-office/"
+    },
+    {
+      "name": "EU AI Act Standard Setting",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2022-05-20",
+          "change": "Released first draft standardisation request"
+        },
+        {
+          "date": "2022-06-30",
+          "change": "Draft sent back with amendments and requests for clarification"
+        },
+        {
+          "date": "2022-12-05",
+          "change": "Published draft based on ESO and stakeholder consultation"
+        },
+        {
+          "date": "2023-05-22",
+          "change": "Commission adopts standardisation request C(2023)3215"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-04-30",
+          "event": "Deadline for deliverables from standardization request C(2023)3215"
+        },
+        {
+          "date": "2026-01-01",
+          "event": "Requirements for high-risk AI systems begin to apply"
+        }
+      ],
+      "leader": {
+        "name": "Hadrien Pouget",
+        "role": "AI policy expert",
+        "organization": "Carnegie Endowment for International Peace"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/standard-setting/"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-06-07",
+          "change": "EU AI Office established within Directorate-General CONNECT Directorate A"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-12-31",
+          "event": "Plan to fill remaining 80 positions in the AI Office"
+        },
+        {
+          "date": "2025-04-01",
+          "event": "AI Office to develop codes of practice for GPAI model developers"
+        }
+      ],
+      "leader": {
+        "name": "Lucilla Sioli",
+        "role": "Head of Office",
+        "organization": "EU AI Office"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/why-work-at-the-eu-ai-office/"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-02-01",
+          "change": "Establishment of the European AI Office"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-08-02",
+          "event": "Member States to designate market surveillance authorities"
+        }
+      ],
+      "leader": {
+        "name": "European AI Office",
+        "role": "Overseer",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-governance-and-enforcement"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-04-22",
+          "change": "AI Office published preliminary guidelines for GPAI models"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-05-22",
+          "event": "Deadline for feedback on preliminary guidelines"
+        }
+      ],
+      "leader": {
+        "name": "AI Office",
+        "role": "Regulatory Body",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/providers-of-general-purpose-ai-models-what-we-know-about-who-will-qualify/"
+    },
+    {
+      "name": "Guidelines on prohibited artificial intelligence (AI) practices, as defined by the AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-02-04",
+          "change": "Commission published the Guidelines"
+        },
+        {
+          "date": "2025-05-08",
+          "change": "Last update on the Guidelines"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Publisher",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act"
+    },
+    {
+      "name": "NCSL’s Broadband Database",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-04-29",
+          "change": "Database updated"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "NCSL staff",
+        "role": "Maintainer",
+        "organization": "National Conference of State Legislatures (NCSL)"
+      },
+      "impact": "High",
+      "source": "https://www.ncsl.org/technology-and-communication/broadband-legislation-database"
+    },
+    {
+      "name": "Artificial Intelligence Act (Regulation (EU) 2024/1689)",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-04-25",
+          "change": "Added obligations for Providers of General Purpose AI Models with Systemic Risk"
+        },
+        {
+          "date": "2025-04-16",
+          "change": "Updated form logic for Authorised Representatives and Product Manufacturers"
+        },
+        {
+          "date": "2025-04-15",
+          "change": "Added AI Literacy obligations and Fundamental rights impacts assessment question"
+        },
+        {
+          "date": "2025-04-01",
+          "change": "Refactored the form ordering"
+        },
+        {
+          "date": "2024-03-26",
+          "change": "Fixed a bug for Deployers under Article 29"
+        },
+        {
+          "date": "2024-03-11",
+          "change": "Updated the Compliance Checker to reflect the Final draft of the AI Act"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024",
+          "event": "More information about EU AI Act enforcement in your country will likely be provided"
+        }
+      ],
+      "leader": {
+        "name": "EU Commission",
+        "role": "Regulator",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/"
+    },
+    {
+      "name": "VPAT Training",
+      "region": "Global",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-04-24",
+          "change": "Released new VPAT training presentation"
+        },
+        {
+          "date": "2025-04-24",
+          "change": "Updated VPAT 2.5Rev documents"
+        },
+        {
+          "date": "2025-04-24",
+          "change": "Released new comprehensive training on VPAT"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Provider",
+        "organization": "ITI"
+      },
+      "impact": "Medium",
+      "source": "https://www.itic.org/policy/accessibility/vpat-training"
+    },
+    {
+      "name": "Sustainable Purchasing",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-02-18",
+          "change": "The Green Grid released a new Data Center Resource Effectiveness metric"
+        },
+        {
+          "date": "2025-02-19",
+          "change": "ITI released policy recommendations for EU's Clean Industrial Deal"
+        },
+        {
+          "date": "2025-04-02",
+          "change": "ITI convened Tech CEOs and Government Leaders at DC’s Premier Tech Policy Summit"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Advocate",
+        "organization": "Information Technology Industry Council"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/environment-sustainability/sustainable-purchasing"
+    },
+    {
+      "name": "ITI Environment & Sustainability Policy",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-04-02",
+          "change": "ITI convened Tech CEOs and Government Leaders at DC’s Premier Tech Policy Summit"
+        },
+        {
+          "date": "2024-10-29",
+          "change": "ITI shared vision for the 2024-2029 EU mandate on tech and sustainability"
+        },
+        {
+          "date": "2024-04-22",
+          "change": "ITI committed to reduce harmful plastic waste and promote circular design"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Policy Advocate",
+        "organization": "ITI"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/environment-sustainability"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-03-21",
+          "change": "Establishment of the AI Office"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-04-01",
+          "event": "Development of codes of practice for AI"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Regulator",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/the-ai-office-summary/"
+    },
+    {
+      "name": "France AI Action Summit",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-02-04",
+          "change": "Announcement of the upcoming France AI Action Summit"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-02-10",
+          "event": "Start of the France AI Action Summit"
+        },
+        {
+          "date": "2025-02-11",
+          "event": "Heads of State and Government meeting at the France AI Action Summit"
+        }
+      ],
+      "leader": {
+        "name": "Courtney Lang",
+        "role": "Policy Analyst",
+        "organization": "ITI"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/news-events/techwonk-blog/meaningfully-advancing-global-ai-governance-what-we-hope-to-see-at-the-france-ai-action-summit"
+    },
+    {
+      "name": "Hiroshima AI Process (HAIP) international code of conduct",
+      "region": "Global",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-02-07",
+          "change": "Reporting Framework launched"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "OECD",
+        "role": "Supporter and Monitor",
+        "organization": "G7"
+      },
+      "impact": "High",
+      "source": "https://transparency.oecd.ai/"
+    },
+    {
+      "name": "EU AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-06-13",
+          "change": "Official Journal version of the Act published"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "EU Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/ai-act-explorer/"
+    },
+    {
+      "name": "AI Governance Policy",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-05-15",
+          "change": "Bipartisan press conference on AI policy"
+        },
+        {
+          "date": "2022-10-01",
+          "change": "Publication of Blueprint for an AI Bill of Rights"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Chuck Schumer",
+        "role": "U.S. Senate Majority Leader",
+        "organization": "United States Senate"
+      },
+      "impact": "High",
+      "source": "https://www.brookings.edu/articles/what-does-the-2024-election-mean-for-the-future-of-ai-governance/"
+    },
+    {
+      "name": "Regulation (EU) 2016/679",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-05-04",
+          "change": "Amendment inserted by 2024 c. 21 s. 31(2)"
+        },
+        {
+          "date": "2024-05-04",
+          "change": "Amendment inserted by 2024 c. 21 s. 31(3)"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Parliament and of the Council",
+        "role": "Legislative Body",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://www.legislation.gov.uk/eur/2016/679/article/5"
+    },
+    {
+      "name": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-10-30",
+          "change": "Executive Order released by the White House"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-01-28",
+          "event": "Department of Commerce to require reporting"
+        }
+      ],
+      "leader": {
+        "name": "Joe Biden",
+        "role": "President",
+        "organization": "United States"
+      },
+      "impact": "High",
+      "source": "https://www.brookings.edu/articles/how-the-white-houses-ai-executive-order-could-increase-u-s-cyber-vulnerabilities/"
+    },
+    {
+      "name": "Communication on boosting startups and innovation in trustworthy artificial intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-01-24",
+          "change": "Communication published"
+        },
+        {
+          "date": "2024-01-24",
+          "change": "AI innovation package launched"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Directorate-General for Communications Networks, Content and Technology",
+        "role": "Manager",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/communication-boosting-startups-and-innovation-trustworthy-artificial-intelligence"
+    },
+    {
+      "name": "AI Innovation Package",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2023-12-01",
+          "change": "Political agreement reached on the EU AI Act"
+        },
+        {
+          "date": "2024-01-24",
+          "change": "Commission launched AI innovation package"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/news/commission-launches-ai-innovation-package-support-artificial-intelligence-startups-and-smes"
+    },
+    {
+      "name": "Coordinated Plan on Artificial Intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2018-01-01",
+          "change": "Initial Plan published"
+        },
+        {
+          "date": "2021-01-01",
+          "change": "Plan updated to align with Commission's digital and green priorities"
+        },
+        {
+          "date": "2024-01-01",
+          "change": "Communication on boosting startups and innovation in trustworthy AI published"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024",
+          "event": "Report on the monitoring of progress of actions"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/policies/plan-ai"
+    },
+    {
+      "name": "Working Group on Data Governance",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-01-01",
+          "change": "Integration of the Global Partnership on Artificial Intelligence (GPAI) and the Organisation for Economic Co-operation and Development (OECD)"
+        },
+        {
+          "date": "2023-12-01",
+          "change": "DG Working Group Report published"
+        },
+        {
+          "date": "2023-11-01",
+          "change": "Interim report on the role of government as a provider of data for AI published"
+        },
+        {
+          "date": "2023-11-01",
+          "change": "Demonstration report on overcoming data barriers via trustworthy privacy-enhancing technologies published"
+        },
+        {
+          "date": "2023-10-01",
+          "change": "Trustworthy Data Institutional Framework report published"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Bertrand Monthubert and Shameek Kundu",
+        "role": "Co-Chairs",
+        "organization": "Conseil National de l’Information Géolocalisée and Truera"
+      },
+      "impact": "High",
+      "source": "https://oecd.ai/en/working-group-data-governance"
+    },
+    {
+      "name": "U.S. Copyright Office Annual Reports",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-09-30",
+          "change": "Released FY 2023 Annual Report"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "U.S. Copyright Office",
+        "role": "Issuer",
+        "organization": "U.S. Copyright Office"
+      },
+      "impact": "High",
+      "source": "https://www.copyright.gov/history/annual_reports.html"
+    },
+    {
+      "name": "Communication on Fostering a European approach to Artificial Intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2021-04-21",
+          "change": "Communication published"
+        },
+        {
+          "date": "2023-06-20",
+          "change": "Last update"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/communication-fostering-european-approach-artificial-intelligence"
+    },
+    {
+      "name": "Office for Artificial Intelligence – information collection and analysis: privacy notice",
+      "region": "United Kingdom",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-03-29",
+          "change": "Privacy notice published"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Department for Science, Innovation and Technology",
+        "role": "Publisher",
+        "organization": "UK Government"
+      },
+      "impact": "Medium",
+      "source": "https://www.gov.uk/government/publications/office-for-artificial-intelligence-information-collection-and-analysis-privacy-notice"
+    },
+    {
+      "name": "Declaration of cooperation on Artificial Intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2018-04-10",
+          "change": "25 EU countries signed the declaration"
+        },
+        {
+          "date": "2018-05-01",
+          "change": "Romania, Greece, Cyprus joined the initiative"
+        },
+        {
+          "date": "2018-07-01",
+          "change": "Croatia joined the initiative"
+        },
+        {
+          "date": "2023-01-31",
+          "change": "Last update on the initiative"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Andrus Ansip and Mariya Gabriel",
+        "role": "Vice-President for the Digital Single Market and Commissioner for Digital Economy and Society",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/news/eu-member-states-sign-cooperate-artificial-intelligence"
+    },
+    {
+      "name": "Spanish Regulatory Sandbox on Artificial Intelligence",
+      "region": "European Union",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [],
+      "futureMilestones": [
+        {
+          "date": "2022-06-27",
+          "event": "Launch event for the Spanish AI Sandbox"
+        }
+      ],
+      "leader": {
+        "name": "Government of Spain and the European Commission",
+        "role": "Organizers",
+        "organization": "Government of Spain and European Union"
+      },
+      "impact": "Medium",
+      "source": "https://digital-strategy.ec.europa.eu/en/events/launch-event-spanish-regulatory-sandbox-artificial-intelligence"
+    },
+    {
+      "name": "Industry Standards",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2021-07-22",
+          "change": "ITI & INCITS created guide to international standards for global policymakers"
+        },
+        {
+          "date": "2021-08-08",
+          "change": "ITI supported modernising EU standardisation system"
+        },
+        {
+          "date": "2022-02-10",
+          "change": "Tech industry released action plan to drive U.S. global competitiveness"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Advocate",
+        "organization": "ITI"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/industry-standards"
+    },
+    {
+      "name": "Coordinated Plan on Artificial Intelligence 2021 Review",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2021-04-21",
+          "change": "Plan published and enacted"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Publisher",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/coordinated-plan-artificial-intelligence-2021-review"
+    },
+    {
+      "name": "Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2020-07-17",
+          "change": "Final Assessment List for Trustworthy AI presented"
+        },
+        {
+          "date": "2021-03-08",
+          "change": "Last update to the document"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "High-Level Expert Group on Artificial Intelligence (AI HLEG)",
+        "role": "Developer",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment"
+    },
+    {
+      "name": "Ethics Guidelines for Trustworthy AI",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2019-04-08",
+          "change": "High-Level Expert Group on AI presented Ethics Guidelines"
+        },
+        {
+          "date": "2019-12-01",
+          "change": "Piloting phase closed"
+        },
+        {
+          "date": "2020-07-01",
+          "change": "Final Assessment List for Trustworthy AI presented"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "High-Level Expert Group on AI",
+        "role": "Presenter",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-02-28",
+          "change": "Published implementation timeline for AI Act"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "unknown",
+          "event": "Prohibitions on unacceptable risk AI 6 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Finalization of Codes of practice for GPAI 9 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "GPAI rules apply 12 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Appointment of Member State competent authorities 12 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission issues implementing acts for high risk AI providers’ post-market monitoring plan 18 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Obligations on high-risk AI systems apply 24 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Member states to have implemented rules on penalties 24 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Member state authorities to have established at least one operational AI regulatory sandbox 24 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Obligations on Annex I high risk AI systems apply 36 months after entry into force"
+        },
+        {
+          "date": "2030-12-31",
+          "event": "Obligations go into effect for certain AI systems that are components of the large-scale IT systems established by EU law"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Implementer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/ai-act-implementation-next-steps/"
+    },
+    {
+      "name": "Personal Data Protection Act (PDPA)",
+      "region": "Singapore",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2013-01-02",
+          "change": "Establishment of the PDPC"
+        },
+        {
+          "date": "2014-01-02",
+          "change": "DNC Registry provisions came into force"
+        },
+        {
+          "date": "2014-07-02",
+          "change": "Main data protection rules came into effect"
+        },
+        {
+          "date": "2020-11-02",
+          "change": "Amendments to the PDPA passed"
+        },
+        {
+          "date": "2021-02-01",
+          "change": "Amendments to the PDPA took effect in phases"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Personal Data Protection Commission",
+        "role": "Regulatory Authority",
+        "organization": "Government of Singapore"
+      },
+      "impact": "High",
+      "source": "https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-05-24",
+          "change": "Publication on robust European AI governance by Novelli et al."
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "unknown",
+          "event": "Commission to establish and work with the AI Office and AI Board"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to issue guidelines on applying the definition of an AI system"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to define rules for 'significant modifications' that alter the risk level of a high-risk system"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to update Annex III to add or remove high-risk AI system use cases"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to develop guidelines on AI practices that are prohibited under Article 5 (AIA)"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to define harmonized standards and obligations for high-risk system providers"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to set information obligations for providers of high-risk systems"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to regulate regulatory sandboxes and supervisory functions"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Implementer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/robust-governance-for-the-ai-act/"
+    },
+    {
+      "name": "AI Policy in the Trump Administration and Congress after the 2024 Elections",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-11-07",
+          "change": "Major shift in American politics affecting AI policy"
+        },
+        {
+          "date": "2019-02-01",
+          "change": "Trump signed EO 13859, 'Maintaining American Leadership in Artificial Intelligence'"
+        },
+        {
+          "date": "2020-11-01",
+          "change": "OMB issued 'Guidance for Regulation of Artificial Intelligence Applications'"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "unknown",
+          "event": "Repeal and replace of the Biden AI EO"
+        },
+        {
+          "date": "unknown",
+          "event": "Stronger focus on leveraging AI as a geopolitical advantage over China"
+        },
+        {
+          "date": "unknown",
+          "event": "Major nexus between AI policy and energy policy priorities"
+        }
+      ],
+      "leader": {
+        "name": "Donald J. Trump",
+        "role": "President",
+        "organization": "United States Government"
+      },
+      "impact": "High",
+      "source": "https://www.rstreet.org/commentary/ai-policy-in-the-trump-administration-and-congress-after-the-2024-elections/",
+      "category": "NIST RMF General"
+    }
+  ]
+}

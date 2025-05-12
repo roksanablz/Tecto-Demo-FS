@@ -1,0 +1,106 @@
+const policyData = [
+  {
+    id: 1,
+    name: "EU AI Act",
+    region: "European Union",
+    status: "Enacted",
+    progress: 100,
+    recentChanges: [
+      {
+        date: "2024-01-15",
+        change: "Final text approved by European Parliament"
+      },
+      {
+        date: "2024-01-10",
+        change: "Mandatory requirements for high-risk AI systems finalized"
+      }
+    ],
+    leader: {
+      name: "Thierry Breton",
+      role: "EU Commissioner for Internal Market",
+      organization: "European Commission"
+    },
+    nextMilestone: "Implementation phase beginning Q2 2024",
+    impact: "High"
+  },
+  {
+    id: 2,
+    name: "AI Risk Management Framework",
+    region: "United States",
+    status: "In Effect",
+    progress: 100,
+    recentChanges: [
+      {
+        date: "2024-01-20",
+        change: "Updated guidelines for AI system evaluation"
+      }
+    ],
+    leader: {
+      name: "Laurie E. Locascio",
+      role: "Director",
+      organization: "NIST"
+    },
+    nextMilestone: "Framework update expected Q3 2024",
+    impact: "Medium"
+  },
+  {
+    id: 3,
+    name: "AI Safety Summit Agreements",
+    region: "International",
+    status: "In Progress",
+    progress: 75,
+    recentChanges: [
+      {
+        date: "2024-02-01",
+        change: "New signatories added to the agreement"
+      }
+    ],
+    leader: {
+      name: "Michelle Donelan",
+      role: "Secretary of State",
+      organization: "UK Department for Science, Innovation and Technology"
+    },
+    nextMilestone: "Next summit scheduled for June 2024",
+    impact: "High"
+  },
+  {
+    id: 4,
+    name: "AI Guidelines for Autonomous Systems",
+    region: "China",
+    status: "In Development",
+    progress: 60,
+    recentChanges: [
+      {
+        date: "2024-01-25",
+        change: "Draft regulations released for public comment"
+      }
+    ],
+    leader: {
+      name: "Wu Zhaohui",
+      role: "Minister",
+      organization: "Ministry of Science and Technology"
+    },
+    nextMilestone: "Final draft expected Q2 2024",
+    impact: "High"
+  },
+  {
+    id: 5,
+    name: "AI Governance Framework",
+    region: "Singapore",
+    status: "In Effect",
+    progress: 100,
+    recentChanges: [
+      {
+        date: "2024-01-05",
+        change: "Updated guidelines for AI deployment in finance sector"
+      }
+    ],
+    leader: {
+      name: "Josephine Teo",
+      role: "Minister",
+      organization: "Ministry of Communications and Information"
+    },
+    nextMilestone: "Sector-specific guidelines ongoing",
+    impact: "Medium"
+  }
+];

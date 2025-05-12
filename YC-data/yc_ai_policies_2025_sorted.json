@@ -1,0 +1,442 @@
+{
+  "lastUpdated": "2025-05-12T21:18:37.110569Z",
+  "policies": [
+    {
+      "name": "FDA Generative AI Rollout Plan",
+      "region": "United States",
+      "status": "In Development",
+      "progress": 30,
+      "recentChanges": [
+        {
+          "date": "2025-05-12",
+          "change": "FDA announced agency-wide integration of generative AI tools"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2026-01-01",
+          "event": "Pilot use in drug and food review processes"
+        }
+      ],
+      "leader": {
+        "name": "Dr. Robert Califf",
+        "role": "Commissioner",
+        "organization": "U.S. FDA"
+      },
+      "impact": "Medium",
+      "source": "https://www.fda.gov/news-events/press-announcements/fda-announces-completion-first-ai-assisted-scientific-review-pilot-and-aggressive-agency-wide-ai"
+    },
+    {
+      "name": "UK House of Lords Copyright Amendment",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 55,
+      "recentChanges": [
+        {
+          "date": "2025-05-12",
+          "change": "Amendment passed requiring training data disclosure"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-09-01",
+          "event": "Expected Commons vote and final debate"
+        }
+      ],
+      "leader": {
+        "name": "Baroness Stowell",
+        "role": "Committee Chair",
+        "organization": "UK House of Lords"
+      },
+      "impact": "Medium",
+      "source": "https://www.theguardian.com/technology/2025/may/12/house-of-lords-pushes-back-ai-plans-data-bill"
+    },
+    {
+      "name": "Singapore Consensus on AI Safety Research",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-05-08",
+          "change": "Consensus launched at international AI safety summit"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2026-05-08",
+          "event": "Follow-up summit to evaluate research progress"
+        }
+      ],
+      "leader": {
+        "name": "Vivian Balakrishnan",
+        "role": "Minister for Foreign Affairs",
+        "organization": "Government of Singapore"
+      },
+      "impact": "Medium",
+      "source": "https://www.scai.gov.sg/2025/scai2025-report"
+    },
+    {
+      "name": "California Civil Rights Council AI Regulations",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 70,
+      "recentChanges": [
+        {
+          "date": "2025-03-21",
+          "change": "Final rules adopted for automated employment decision tools"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-07-01",
+          "event": "Employer compliance enforcement begins"
+        }
+      ],
+      "leader": {
+        "name": "Kevin Kish",
+        "role": "Director",
+        "organization": "California Civil Rights Department"
+      },
+      "impact": "High",
+      "source": "https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2025/03/Attachment-B-Final-Unmodified-Text-of-Proposed-Employment-Regulations-Regarding-Automated-Decision-Systems.pdf"
+    },
+    {
+      "name": "Executive Order 14179 \u2013 Deregulatory Shift",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-01-23",
+          "change": "Signed and implemented by President Trump"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-10-01",
+          "event": "Full repeal of EO 14110 expected"
+        }
+      ],
+      "leader": {
+        "name": "Donald J. Trump",
+        "role": "President",
+        "organization": "United States Government"
+      },
+      "impact": "Medium",
+      "source": "https://www.presidency.ucsb.edu/documents/executive-order-14179-removing-barriers-american-leadership-artificial-intelligence"
+    },
+    {
+      "name": "California AI Accountability Laws (AB 331, SB 313)",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-01-01",
+          "change": "Laws went into effect requiring AI transparency and opt-out rights"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-07-01",
+          "event": "Enforcement begins by California Department of Justice"
+        }
+      ],
+      "leader": {
+        "name": "Rob Bonta",
+        "role": "Attorney General",
+        "organization": "State of California"
+      },
+      "impact": "High",
+      "source": "https://calmatters.digitaldemocracy.org/bills/ca_202320240sb313"
+    },
+    {
+      "name": "Spanish AI Regulatory Sandbox",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 75,
+      "recentChanges": [
+        {
+          "date": "2024-12-15",
+          "change": "First companies accepted into EU AI Act sandbox pilot"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-06-01",
+          "event": "Public results from pilot phase expected"
+        }
+      ],
+      "leader": {
+        "name": "Ministry of Economic Affairs and Digital Transformation",
+        "role": "Regulator",
+        "organization": "Government of Spain"
+      },
+      "impact": "Medium",
+      "source": "https://digitalpolicyalert.org/change/6027"
+    },
+    {
+      "name": "AI Civil Rights Act (Proposed)",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 45,
+      "recentChanges": [
+        {
+          "date": "2024-09-15",
+          "change": "Draft introduced to address algorithmic civil rights issues"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-11-01",
+          "event": "Expected Senate hearing"
+        }
+      ],
+      "leader": {
+        "name": "Rep. Yvette Clarke",
+        "role": "Sponsor",
+        "organization": "U.S. Congress"
+      },
+      "impact": "High",
+      "source": "https://www.congress.gov/bill/118th-congress/senate-bill/5152"
+    },
+    {
+      "name": "Artificial Intelligence Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-03-13",
+          "change": "Passed the European Parliament"
+        },
+        {
+          "date": "2024-05-21",
+          "change": "Approved by the EU Council"
+        },
+        {
+          "date": "2024-08-01",
+          "change": "Act came into force"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-08-01",
+          "event": "Phase 1 enforcement begins"
+        },
+        {
+          "date": "2026-01-01",
+          "event": "Compliance required for high-risk AI systems"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://commission.europa.eu/news/ai-act-enters-force-2024-08-01_en"
+    },
+    {
+      "name": "Council of Europe AI Treaty",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 90,
+      "recentChanges": [
+        {
+          "date": "2024-05-17",
+          "change": "Treaty adopted and opened for signatures"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-09-01",
+          "event": "Expected ratification by additional countries"
+        }
+      ],
+      "leader": {
+        "name": "Marija Pej\u010dinovi\u0107 Buri\u0107",
+        "role": "Secretary General",
+        "organization": "Council of Europe"
+      },
+      "impact": "High",
+      "source": "https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence"
+    },
+    {
+      "name": "Hiroshima AI Code of Conduct",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 60,
+      "recentChanges": [
+        {
+          "date": "2023-10-30",
+          "change": "G7 released the first voluntary code for advanced AI"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-11-01",
+          "event": "Expected update and ratification by G7 nations"
+        }
+      ],
+      "leader": {
+        "name": "Fumio Kishida",
+        "role": "G7 Host",
+        "organization": "Government of Japan"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-code-conduct-advanced-ai-systems"
+    },
+    {
+      "name": "OECD AI Principles",
+      "region": "Global",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-10-01",
+          "change": "Principles reaffirmed at OECD AI summit"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2026-01-01",
+          "event": "Next triennial review of implementation progress"
+        }
+      ],
+      "leader": {
+        "name": "Mathias Cormann",
+        "role": "Secretary-General",
+        "organization": "OECD"
+      },
+      "impact": "Medium",
+      "source": "https://oecd.ai/en/ai-principles"
+    },
+    {
+      "name": "Algorithmic Accountability Act",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 65,
+      "recentChanges": [
+        {
+          "date": "2023-09-21",
+          "change": "Reintroduced to Congress with bipartisan sponsors"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-12-31",
+          "event": "Expected Congressional vote or reintroduction"
+        }
+      ],
+      "leader": {
+        "name": "Sen. Ron Wyden",
+        "role": "Sponsor",
+        "organization": "U.S. Senate"
+      },
+      "impact": "High",
+      "source": "https://www.congress.gov/bill/118th-congress/senate-bill/2892"
+    },
+    {
+      "name": "UK AI Regulation White Paper",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 70,
+      "recentChanges": [
+        {
+          "date": "2023-03-29",
+          "change": "White paper released outlining pro-innovation AI approach"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-10-01",
+          "event": "Expected review and update post-election"
+        }
+      ],
+      "leader": {
+        "name": "Michelle Donelan",
+        "role": "Secretary of State for Science, Innovation and Technology",
+        "organization": "UK Government"
+      },
+      "impact": "Medium",
+      "source": "https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach"
+    },
+    {
+      "name": "NIST AI Risk Management Framework",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-01-26",
+          "change": "Framework version 1.0 released publicly"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-01-01",
+          "event": "Proposed integration into federal procurement rules"
+        }
+      ],
+      "leader": {
+        "name": "Dr. Laurie Locascio",
+        "role": "Director",
+        "organization": "NIST"
+      },
+      "impact": "High",
+      "source": "https://www.nist.gov/itl/ai-risk-management-framework"
+    },
+    {
+      "name": "Blueprint for an AI Bill of Rights",
+      "region": "United States",
+      "status": "In Development",
+      "progress": 40,
+      "recentChanges": [
+        {
+          "date": "2022-10-04",
+          "change": "OSTP released the blueprint and called for feedback"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-12-01",
+          "event": "Expected incorporation into federal agency guidelines"
+        }
+      ],
+      "leader": {
+        "name": "Alondra Nelson",
+        "role": "Deputy Director",
+        "organization": "White House OSTP"
+      },
+      "impact": "Medium",
+      "source": "https://www.whitehouse.gov/ostp/ai-bill-of-rights/"
+    },
+    {
+      "name": "UNESCO Recommendation on the Ethics of AI",
+      "region": "Global",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2021-11-25",
+          "change": "Adopted by all 193 member states of UNESCO"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-12-01",
+          "event": "UNESCO annual review of implementation across countries"
+        }
+      ],
+      "leader": {
+        "name": "Gabriela Ramos",
+        "role": "Assistant Director-General for Social and Human Sciences",
+        "organization": "UNESCO"
+      },
+      "impact": "High",
+      "source": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics"
+    }
+  ]
+}

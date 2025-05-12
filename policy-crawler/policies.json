@@ -1,0 +1,2848 @@
+{
+  "lastUpdated": "2025-05-12T20:36:13.028Z",
+  "policies": [
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0065&WT_mc_id=Twitter"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN"
+    },
+    {
+      "name": "Coordinated Plan on Artificial Intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2018-01-01",
+          "change": "Initial Plan published"
+        },
+        {
+          "date": "2021-01-01",
+          "change": "Plan updated to align with Commission's digital and green priorities"
+        },
+        {
+          "date": "2024-01-01",
+          "change": "Communication on boosting startups and innovation in trustworthy AI published"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024",
+          "event": "Report on the monitoring of progress of actions"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/policies/plan-ai"
+    },
+    {
+      "name": "Declaration of cooperation on Artificial Intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2018-04-10",
+          "change": "25 EU countries signed the declaration"
+        },
+        {
+          "date": "2018-05-01",
+          "change": "Romania, Greece, Cyprus joined the initiative"
+        },
+        {
+          "date": "2018-07-01",
+          "change": "Croatia joined the initiative"
+        },
+        {
+          "date": "2023-01-31",
+          "change": "Last update on the initiative"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Andrus Ansip and Mariya Gabriel",
+        "role": "Vice-President for the Digital Single Market and Commissioner for Digital Economy and Society",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/news/eu-member-states-sign-cooperate-artificial-intelligence"
+    },
+    {
+      "name": "Communication Artificial Intelligence for Europe",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2018-04-25",
+          "change": "Publication of the Communication"
+        },
+        {
+          "date": "2021-10-11",
+          "change": "Last update to the Communication"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Directorate-General for Communications Networks, Content and Technology",
+        "role": "Manager",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/communication-artificial-intelligence-europe"
+    },
+    {
+      "name": "Ethics Guidelines for Trustworthy AI",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2018-12-01",
+          "change": "First draft of the Guidelines published"
+        },
+        {
+          "date": "2019-04-01",
+          "change": "Revised Guidelines published after stakeholder consultation"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "AI HLEG",
+        "role": "Steering Group",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://ec.europa.eu/futurium/en/ethics-guidelines-trustworthy-ai/stakeholder-consultation-guidelines-first-draft.html"
+    },
+    {
+      "name": "Ethics Guidelines for Trustworthy AI",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2019-04-08",
+          "change": "High-Level Expert Group on AI presented Ethics Guidelines"
+        },
+        {
+          "date": "2019-12-01",
+          "change": "Piloting phase closed"
+        },
+        {
+          "date": "2020-07-01",
+          "change": "Final Assessment List for Trustworthy AI presented"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "High-Level Expert Group on AI",
+        "role": "Presenter",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+    },
+    {
+      "name": "Communication: Building Trust in Human Centric Artificial Intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2019-04-08",
+          "change": "Policy and legislation publication"
+        },
+        {
+          "date": "2021-03-08",
+          "change": "Last update"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Directorate-General for Communications Networks, Content and Technology",
+        "role": "Manager",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/communication-building-trust-human-centric-artificial-intelligence"
+    },
+    {
+      "name": "Policy and investment recommendations for Trustworthy Artificial Intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2019-06-26",
+          "change": "Publication of the policy and investment recommendations"
+        },
+        {
+          "date": "2021-03-08",
+          "change": "Last update of the document"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "High-Level Expert Group on AI (AI HLEG)",
+        "role": "Author",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/policy-and-investment-recommendations-trustworthy-artificial-intelligence"
+    },
+    {
+      "name": "Ethics Guidelines for Trustworthy AI",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2019-06-26",
+          "change": "Ethics Guidelines for Trustworthy AI presented"
+        },
+        {
+          "date": "2019-12-01",
+          "change": "Piloting phase of the assessment list completed"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "High-Level Expert Group on AI",
+        "role": "Proposer",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://ec.europa.eu/futurium/en/ethics-guidelines-trustworthy-ai/pilot-assessment-list-ethics-guidelines-trustworthy-ai.html"
+    },
+    {
+      "name": "White Paper on Artificial Intelligence: Public consultation towards a European approach for excellence and trust",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2020-02-19",
+          "change": "White Paper and online survey published"
+        },
+        {
+          "date": "2020-06-14",
+          "change": "Feedback collection period ended"
+        },
+        {
+          "date": "2020-07-17",
+          "change": "Consultation results published"
+        },
+        {
+          "date": "2022-11-17",
+          "change": "Last update on the document"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "unknown",
+          "event": "Presentation of regulatory proposal after detailed impact assessment"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/white-paper-artificial-intelligence-public-consultation-towards-european-approach-excellence-and"
+    },
+    {
+      "name": "Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self-assessment",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2020-07-17",
+          "change": "Final Assessment List for Trustworthy AI presented"
+        },
+        {
+          "date": "2021-03-08",
+          "change": "Last update to the document"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "High-Level Expert Group on Artificial Intelligence (AI HLEG)",
+        "role": "Developer",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment"
+    },
+    {
+      "name": "Artificial Intelligence Ethical and Legal Requirements",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12527-Artificial-intelligence-ethical-and-legal-requirements_en"
+    },
+    {
+      "name": "Coordinated Plan on Artificial Intelligence 2021 Review",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2021-04-21",
+          "change": "Plan published and enacted"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Publisher",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/coordinated-plan-artificial-intelligence-2021-review"
+    },
+    {
+      "name": "Proposal for a Regulation laying down harmonised rules on artificial intelligence",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2021-04-21",
+          "change": "Proposal for the regulation announced by the Commission"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence"
+    },
+    {
+      "name": "unknown",
+      "region": "European Union",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "European Economic and Social Committee"
+      },
+      "impact": "unknown",
+      "source": "https://www.eesc.europa.eu/en/our-work/opinions-information-reports/opinions/regulation-artificial-intelligence"
+    },
+    {
+      "name": "Spanish Regulatory Sandbox on Artificial Intelligence",
+      "region": "European Union",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [],
+      "futureMilestones": [
+        {
+          "date": "2022-06-27",
+          "event": "Launch event for the Spanish AI Sandbox"
+        }
+      ],
+      "leader": {
+        "name": "Government of Spain and the European Commission",
+        "role": "Organizers",
+        "organization": "Government of Spain and European Union"
+      },
+      "impact": "Medium",
+      "source": "https://digital-strategy.ec.europa.eu/en/events/launch-event-spanish-regulatory-sandbox-artificial-intelligence"
+    },
+    {
+      "name": "Guidelines on prohibited artificial intelligence (AI) practices, as defined by the AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-02-04",
+          "change": "Commission published the Guidelines"
+        },
+        {
+          "date": "2025-05-08",
+          "change": "Last update on the Guidelines"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Publisher",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0346"
+    },
+    {
+      "name": "unknown",
+      "region": "European Union",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://ec.europa.eu/docsroom/documents/45508"
+    },
+    {
+      "name": "Civil liability adapting liability rules to the digital age and artificial intelligence",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12979-Civil-liability-adapting-liability-rules-to-the-digital-age-and-artificial-intelligence_en"
+    },
+    {
+      "name": "Communication on Fostering a European approach to Artificial Intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2021-04-21",
+          "change": "Communication published"
+        },
+        {
+          "date": "2023-06-20",
+          "change": "Last update"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/communication-fostering-european-approach-artificial-intelligence"
+    },
+    {
+      "name": "Communication on boosting startups and innovation in trustworthy artificial intelligence",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-01-24",
+          "change": "Communication published"
+        },
+        {
+          "date": "2024-01-24",
+          "change": "AI innovation package launched"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Directorate-General for Communications Networks, Content and Technology",
+        "role": "Manager",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/communication-boosting-startups-and-innovation-trustworthy-artificial-intelligence"
+    },
+    {
+      "name": "AI Innovation Package",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2023-12-01",
+          "change": "Political agreement reached on the EU AI Act"
+        },
+        {
+          "date": "2024-01-24",
+          "change": "Commission launched AI innovation package"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/news/commission-launches-ai-innovation-package-support-artificial-intelligence-startups-and-smes"
+    },
+    {
+      "name": "InvestAI initiative",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2025-02-11",
+          "change": "InvestAI initiative launched by Commission President Ursula von der Leyen"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Ursula von der Leyen",
+        "role": "Commission President",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/news/eu-launches-investai-initiative-mobilise-eu200-billion-investment-artificial-intelligence"
+    },
+    {
+      "name": "White Paper on Artificial Intelligence: a European approach to excellence and trust",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2020-02-19",
+          "change": "White Paper published"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Directorate-General for Communication",
+        "role": "Manager",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://commission.europa.eu/publications/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en"
+    },
+    {
+      "name": "Vulnerability Disclosure Policy",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Policy Maker",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://commission.europa.eu/legal-notice/vulnerability-disclosure-policy_en"
+    },
+    {
+      "name": "AI Continent Action Plan and Apply AI Strategy",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2025-05-12",
+          "change": "European Commission releases analysis of stakeholder feedback on AI definitions and prohibited practices public consultations"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-05-16",
+          "event": "Info Day - Call for Digital Skills Academies Online"
+        },
+        {
+          "date": "2025-05-16",
+          "event": "AI-DATA-ROBOTICS - Info Day and Brokerage Event"
+        },
+        {
+          "date": "2025-05-27",
+          "event": "Fifth AI Pact webinar on the AI Continent Action Plan and Apply AI Strategy"
+        },
+        {
+          "date": "2025-10-08",
+          "event": "The European Data Conference on Reference Data and Semantics 2025"
+        }
+      ],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/related-content?topic=119"
+    },
+    {
+      "name": "Study supporting the impact assessment of the AI regulation",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2021-04-21",
+          "change": "Study published"
+        },
+        {
+          "date": "2023-01-30",
+          "change": "Last update to the study"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Directorate-General for Communications Networks, Content and Technology",
+        "role": "Manager",
+        "organization": "European Commission"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/study-supporting-impact-assessment-ai-regulation"
+    },
+    {
+      "name": "Regulation on Artificial Intelligence",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2021-04-21",
+          "change": "Impact assessment published"
+        },
+        {
+          "date": "2023-06-20",
+          "change": "Document last updated"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "unknown",
+      "source": "https://digital-strategy.ec.europa.eu/en/library/impact-assessment-regulation-artificial-intelligence"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-02-01",
+          "change": "Establishment of the European AI Office"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-08-02",
+          "event": "Member States to designate market surveillance authorities"
+        }
+      ],
+      "leader": {
+        "name": "European AI Office",
+        "role": "Overseer",
+        "organization": "European Commission"
+      },
+      "impact": "High",
+      "source": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-governance-and-enforcement"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-02-28",
+          "change": "Published implementation timeline for AI Act"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "unknown",
+          "event": "Prohibitions on unacceptable risk AI 6 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Finalization of Codes of practice for GPAI 9 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "GPAI rules apply 12 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Appointment of Member State competent authorities 12 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission issues implementing acts for high risk AI providers’ post-market monitoring plan 18 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Obligations on high-risk AI systems apply 24 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Member states to have implemented rules on penalties 24 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Member state authorities to have established at least one operational AI regulatory sandbox 24 months after entry into force"
+        },
+        {
+          "date": "unknown",
+          "event": "Obligations on Annex I high risk AI systems apply 36 months after entry into force"
+        },
+        {
+          "date": "2030-12-31",
+          "event": "Obligations go into effect for certain AI systems that are components of the large-scale IT systems established by EU law"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Implementer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/ai-act-implementation-next-steps/"
+    },
+    {
+      "name": "Personal Data Protection Act (PDPA)",
+      "region": "Singapore",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2013-01-02",
+          "change": "Establishment of the PDPC"
+        },
+        {
+          "date": "2014-01-02",
+          "change": "DNC Registry provisions came into force"
+        },
+        {
+          "date": "2014-07-02",
+          "change": "Main data protection rules came into effect"
+        },
+        {
+          "date": "2020-11-02",
+          "change": "Amendments to the PDPA passed"
+        },
+        {
+          "date": "2021-02-01",
+          "change": "Amendments to the PDPA took effect in phases"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Personal Data Protection Commission",
+        "role": "Regulatory Authority",
+        "organization": "Government of Singapore"
+      },
+      "impact": "High",
+      "source": "https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-05-24",
+          "change": "Publication on robust European AI governance by Novelli et al."
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "unknown",
+          "event": "Commission to establish and work with the AI Office and AI Board"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to issue guidelines on applying the definition of an AI system"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to define rules for 'significant modifications' that alter the risk level of a high-risk system"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to update Annex III to add or remove high-risk AI system use cases"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to develop guidelines on AI practices that are prohibited under Article 5 (AIA)"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to define harmonized standards and obligations for high-risk system providers"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to set information obligations for providers of high-risk systems"
+        },
+        {
+          "date": "unknown",
+          "event": "Commission to regulate regulatory sandboxes and supervisory functions"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Implementer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/robust-governance-for-the-ai-act/"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-06-07",
+          "change": "EU AI Office established within Directorate-General CONNECT Directorate A"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-12-31",
+          "event": "Plan to fill remaining 80 positions in the AI Office"
+        },
+        {
+          "date": "2025-04-01",
+          "event": "AI Office to develop codes of practice for GPAI model developers"
+        }
+      ],
+      "leader": {
+        "name": "Lucilla Sioli",
+        "role": "Head of Office",
+        "organization": "EU AI Office"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/why-work-at-the-eu-ai-office/"
+    },
+    {
+      "name": "The Electrical Equipment (Safety) Regulations 2016",
+      "region": "United Kingdom",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://www.legislation.gov.uk/uksi/2016/1101/contents"
+    },
+    {
+      "name": "Regulation (EU) 2016/679",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-05-04",
+          "change": "Amendment inserted by 2024 c. 21 s. 31(2)"
+        },
+        {
+          "date": "2024-05-04",
+          "change": "Amendment inserted by 2024 c. 21 s. 31(3)"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Parliament and of the Council",
+        "role": "Legislative Body",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://www.legislation.gov.uk/eur/2016/679/article/5"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2024-11-19",
+          "change": "AI Office opened Lead Scientific Advisor position"
+        },
+        {
+          "date": "2024-12-13",
+          "change": "Application deadline for Lead Scientific Advisor position"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-01-15",
+          "change": "Deadline for Legal or Policy Officer applications"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "Each Member State must establish at least one AI regulatory sandbox"
+        }
+      ],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "European AI Office"
+      },
+      "impact": "unknown",
+      "source": "https://artificialintelligenceact.eu/ai-office-hiring-a-lead-scientific-advisor-for-ai/"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-12-16",
+          "change": "Opened calls for new members for the European AI Office"
+        },
+        {
+          "date": "2025-04-22",
+          "change": "Published preliminary guidelines for providers of GPAI models"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-01-15",
+          "event": "Deadline for expression of interest for European AI Office roles"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "Each Member State must establish at least one AI regulatory sandbox"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Regulator",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/job-opportunities-european-ai-office/"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://rulemaking.worldbank.org/en/data/explorecountries/united-kingdom"
+    },
+    {
+      "name": "Hiroshima AI Process (HAIP) international code of conduct",
+      "region": "Global",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-02-07",
+          "change": "Reporting Framework launched"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "OECD",
+        "role": "Supporter and Monitor",
+        "organization": "G7"
+      },
+      "impact": "High",
+      "source": "https://transparency.oecd.ai/"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-04-22",
+          "change": "AI Office published preliminary guidelines for GPAI models"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-05-22",
+          "event": "Deadline for feedback on preliminary guidelines"
+        }
+      ],
+      "leader": {
+        "name": "AI Office",
+        "role": "Regulatory Body",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/providers-of-general-purpose-ai-models-what-we-know-about-who-will-qualify/"
+    },
+    {
+      "name": "EU AI Act",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [
+        {
+          "date": "2026-08-02",
+          "event": "Each Member State must establish at least one AI regulatory sandbox"
+        }
+      ],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://artificialintelligenceact.eu/ai-regulatory-sandbox-approaches-eu-member-state-overview/"
+    },
+    {
+      "name": "Inclusive Britain: government response to the Commission on Race and Ethnic Disparities",
+      "region": "United Kingdom",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2022-03-17",
+          "change": "Policy paper published"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Kemi Badenoch MP",
+        "role": "Minister of State for Equalities",
+        "organization": "Department for Levelling Up, Housing & Communities"
+      },
+      "impact": "unknown",
+      "source": "https://www.gov.uk/government/publications/inclusive-britain-action-plan-government-response-to-the-commission-on-race-and-ethnic-disparities/inclusive-britain-government-response-to-the-commission-on-race-and-ethnic-disparities"
+    },
+    {
+      "name": "OECD AI Policy Observatory",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2023-12-21",
+          "change": "US established frameworks for trustworthy AI"
+        },
+        {
+          "date": "2023-11-16",
+          "change": "OECD Expert Group conducted future AI scenarios exercise"
+        },
+        {
+          "date": "2023-08-28",
+          "change": "OECD developing anticipatory policy framework for emerging technologies"
+        },
+        {
+          "date": "2023-07-17",
+          "change": "Brazil improved digital ecosystem to incentivise AI innovation"
+        },
+        {
+          "date": "2023-05-08",
+          "change": "OECD.AI Expert Forum held discussions on AI and its regulation"
+        },
+        {
+          "date": "2023-01-30",
+          "change": "India initiated 'AI for All' programme"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "OECD"
+      },
+      "impact": "High",
+      "source": "https://oecd.ai/en/videos"
+    },
+    {
+      "name": "OECD.AI Programme",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "OECD"
+      },
+      "impact": "unknown",
+      "source": "https://oecd.ai/en/policy-areas"
+    },
+    {
+      "name": "Working Group on Responsible AI",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2022-02-01",
+          "change": "AI and Pandemic Response Subgroup merged to the RAI"
+        },
+        {
+          "date": "2023-12-01",
+          "change": "Published 2023 RAI Working Group Report"
+        },
+        {
+          "date": "2023-11-01",
+          "change": "Published RAI Strategy for the Environment Workshop Report"
+        },
+        {
+          "date": "2023-10-01",
+          "change": "Published Social Media Governance Project Summary of Work in 2023"
+        },
+        {
+          "date": "2023-12-01",
+          "change": "Published report on Crowdsourcing the curation of the training set for harmful content classifiers"
+        },
+        {
+          "date": "2023-12-01",
+          "change": "Published report on Scaling Responsible AI Solutions"
+        },
+        {
+          "date": "2023-12-01",
+          "change": "Published report on Pandemic Resilience"
+        },
+        {
+          "date": "2023-11-01",
+          "change": "Published report on Towards Real Diversity and Gender Equality in Artificial Intelligence"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "OECD"
+      },
+      "impact": "High",
+      "source": "https://oecd.ai/en/working-group-responsible-ai"
+    },
+    {
+      "name": "Working Group on Data Governance",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-01-01",
+          "change": "Integration of the Global Partnership on Artificial Intelligence (GPAI) and the Organisation for Economic Co-operation and Development (OECD)"
+        },
+        {
+          "date": "2023-12-01",
+          "change": "DG Working Group Report published"
+        },
+        {
+          "date": "2023-11-01",
+          "change": "Interim report on the role of government as a provider of data for AI published"
+        },
+        {
+          "date": "2023-11-01",
+          "change": "Demonstration report on overcoming data barriers via trustworthy privacy-enhancing technologies published"
+        },
+        {
+          "date": "2023-10-01",
+          "change": "Trustworthy Data Institutional Framework report published"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Bertrand Monthubert and Shameek Kundu",
+        "role": "Co-Chairs",
+        "organization": "Conseil National de l’Information Géolocalisée and Truera"
+      },
+      "impact": "High",
+      "source": "https://oecd.ai/en/working-group-data-governance"
+    },
+    {
+      "name": "OECD AI Index",
+      "region": "Global",
+      "status": "In Development",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [
+        {
+          "date": "2024",
+          "event": "Review of the implementation of the OECD AI Principles"
+        }
+      ],
+      "leader": {
+        "name": "Mr. Soumitra Dutta and Mr. Yoav Evenstein",
+        "role": "Co-chairs of the Expert Group on OECD AI Index",
+        "organization": "University of Oxford and Evenovate & Tel Aviv University"
+      },
+      "impact": "unknown",
+      "source": "https://oecd.ai/en/site/ai-index"
+    },
+    {
+      "name": "The EU AI Act Newsletter",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Risto Uuk",
+        "role": "Head of EU Policy & Research",
+        "organization": "Future of Life Institute"
+      },
+      "impact": "unknown",
+      "source": "https://artificialintelligenceact.substack.com/"
+    },
+    {
+      "name": "AI, Data & Privacy",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2024-02-06",
+          "change": "Data privacy overview page published"
+        },
+        {
+          "date": "2024-04-10",
+          "change": "Data privacy overview page modified"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Denise Wong",
+        "role": "Co-chair of AI, Data & Privacy Group",
+        "organization": "Singapore Infocomm Media Development Authority (IMDA)"
+      },
+      "impact": "unknown",
+      "source": "https://oecd.ai/en/site/data-privacy"
+    },
+    {
+      "name": "Internet Governance Policy",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Advocate",
+        "organization": "ITI"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/internet-governance"
+    },
+    {
+      "name": "Industry Standards",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2021-07-22",
+          "change": "ITI & INCITS created guide to international standards for global policymakers"
+        },
+        {
+          "date": "2021-08-08",
+          "change": "ITI supported modernising EU standardisation system"
+        },
+        {
+          "date": "2022-02-10",
+          "change": "Tech industry released action plan to drive U.S. global competitiveness"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Advocate",
+        "organization": "ITI"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/industry-standards"
+    },
+    {
+      "name": "Framework for Critical Infrastructure Cybersecurity",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2014-10-14",
+          "change": "ITI comments in response to NIST RFI"
+        },
+        {
+          "date": "2014-06-11",
+          "change": "Multi-association letter praising the Obama administration’s support"
+        },
+        {
+          "date": "2013-12-12",
+          "change": "ITI comments in response to NIST RFI"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "National Institute of Standards and Technology",
+        "role": "Issuer",
+        "organization": "United States Government"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/cybersecurity/nist-framework",
+      "category": "NIST RMF General"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-01-01",
+          "change": "Technical negotiations on the AI Act concluded"
+        },
+        {
+          "date": "2024-07-12",
+          "change": "AI Act published in the Official Journal of the European Union"
+        },
+        {
+          "date": "2024-08-01",
+          "change": "AI Act entered into force"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-02-02",
+          "event": "Chapter I and II of the AI Act will apply"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Chapter III, V, VII, Article 78, and Art 99 – 100 of the AI Act will apply"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "AI Act becomes fully applicable"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "Article 6(1), Annex I, and the corresponding obligations will apply"
+        },
+        {
+          "date": "2030-12-31",
+          "event": "AI systems which are components of large-scale IT systems need to be compliant with the AI Act"
+        },
+        {
+          "date": "2030-08-02",
+          "event": "High-risk AI systems deployed by public authorities need to be compliant with the AI Act"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "GPAI models placed on the market before 2 August 2025 need to be compliant with the AI Act"
+        }
+      ],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/responsibilities-of-member-states/"
+    },
+    {
+      "name": "ITI’s AI Accountability Framework",
+      "region": "Global",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "ITI"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/artificial-intelligence/itis-ai-accountability-framework"
+    },
+    {
+      "name": "The AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-01-24",
+          "change": "Technical negotiations on the AI Act concluded"
+        },
+        {
+          "date": "2024-07-12",
+          "change": "AI Act published in the Official Journal of the European Union"
+        },
+        {
+          "date": "2024-08-01",
+          "change": "AI Act entered into force"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-02-02",
+          "event": "Start of enforcement activities on EU level"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "AI Act becomes applicable"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "Compliance required for certain AI systems and GPAI models"
+        },
+        {
+          "date": "2030-12-31",
+          "event": "Compliance required for AI systems which are components of large-scale IT systems"
+        },
+        {
+          "date": "2031-12-31",
+          "event": "Completion of ex-post evaluation of the law"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Implementer and Enforcer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/responsibilities-of-european-commission-ai-office/"
+    },
+    {
+      "name": "unknown",
+      "region": "Global",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "ITI"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/artificial-intelligence/authenticating-aigenerated-content-exploring-risks-techniques-policy-recommendations"
+    },
+    {
+      "name": "EU AI Act Standard Setting",
+      "region": "European Union",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2022-05-20",
+          "change": "Released first draft standardisation request"
+        },
+        {
+          "date": "2022-06-30",
+          "change": "Draft sent back with amendments and requests for clarification"
+        },
+        {
+          "date": "2022-12-05",
+          "change": "Published draft based on ESO and stakeholder consultation"
+        },
+        {
+          "date": "2023-05-22",
+          "change": "Commission adopts standardisation request C(2023)3215"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-04-30",
+          "event": "Deadline for deliverables from standardization request C(2023)3215"
+        },
+        {
+          "date": "2026-01-01",
+          "event": "Requirements for high-risk AI systems begin to apply"
+        }
+      ],
+      "leader": {
+        "name": "Hadrien Pouget",
+        "role": "AI policy expert",
+        "organization": "Carnegie Endowment for International Peace"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/standard-setting/"
+    },
+    {
+      "name": "ITI Policy Principles for Enabling Transparency of AI Systems",
+      "region": "Global",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "Information Technology Industry Council (ITI)"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/artificial-intelligence/iti-policy-principles-for-enabling-transparency-of-ai-systems"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-03-21",
+          "change": "Establishment of the AI Office"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-04-01",
+          "event": "Development of codes of practice for AI"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Regulator",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/the-ai-office-summary/"
+    },
+    {
+      "name": "ITI’s Global AI Policy Recommendations",
+      "region": "Global",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "ITI"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/artificial-intelligence/itis-global-ai-policy-recommendations"
+    },
+    {
+      "name": "Code of Practice for the AI Act",
+      "region": "European Union",
+      "status": "In Development",
+      "progress": 75,
+      "recentChanges": [
+        {
+          "date": "2024-10-01",
+          "change": "Drafting process for the Code of Practice began"
+        },
+        {
+          "date": "2025-03-11",
+          "change": "Publication of the third draft of the Code of Practice"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-05-01",
+          "event": "Expected finalization of the Code of Practice"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "GPAI model provider obligations come into effect"
+        },
+        {
+          "date": "2027-08-01",
+          "event": "Expected adoption of standards"
+        }
+      ],
+      "leader": {
+        "name": "Jimmy Farrell and Tekla Emborg",
+        "role": "EU AI policy co-lead and Policy Researcher",
+        "organization": "Pour Demain and Future of Life Institute"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/introduction-to-code-of-practice/"
+    },
+    {
+      "name": "Understanding Foundation Models & the AI Value Chain: ITI’s Comprehensive Policy Guide",
+      "region": "Global",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Policy Guide Creator",
+        "organization": "ITI"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/artificial-intelligence/understanding-foundation-models-the-ai-value-chain-itis-comprehensive-policy-guide"
+    },
+    {
+      "name": "Harnessing AI: Recommendations for Policymakers",
+      "region": "Global",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "ITI"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/artificial-intelligence/harnessing-ai-recommendations-for-policymakers"
+    },
+    {
+      "name": "AI Act",
+      "region": "European Union",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "European Commission",
+        "role": "unknown",
+        "organization": "European Union"
+      },
+      "impact": "unknown",
+      "source": "https://artificialintelligenceact.eu/small-businesses-guide-to-the-ai-act/"
+    },
+    {
+      "name": "UN Framework Convention on Climate Change & Race to Zero",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [
+        {
+          "date": "2050",
+          "event": "Target date to reach net zero emissions globally"
+        },
+        {
+          "date": "2030",
+          "event": "Target date to halve global emissions"
+        }
+      ],
+      "leader": {
+        "name": "Jason Oxman",
+        "role": "President and CEO",
+        "organization": "ITI"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/environment-sustainability/un-framework-convention-on-climate-change-race-to-zero"
+    },
+    {
+      "name": "EU AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-07-12",
+          "change": "AI Act published in the Official Journal of the EU"
+        },
+        {
+          "date": "2024-08-01",
+          "change": "AI Act entered into force"
+        },
+        {
+          "date": "2024-11-02",
+          "change": "Member States identified authorities for fundamental rights protection"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-02-02",
+          "event": "Prohibitions on certain AI systems start to apply"
+        },
+        {
+          "date": "2025-05-02",
+          "event": "Codes of practice to be ready"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Rules on Notified bodies, GPAI models, Governance, Confidentiality, Penalties start to apply"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Providers of GPAI models need to be compliant by 2 August 2027"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Member States to report on the status of the financial and human resources of the national competent authorities"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Member States to designate national competent authorities"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Member States to lay down rules for penalties and fines"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Commission may provide common rules for the implementation of the obligations for providers of GPAI models"
+        },
+        {
+          "date": "2025-08-02",
+          "event": "Annual Commission review and possible amendments on prohibitions"
+        },
+        {
+          "date": "2026-02-02",
+          "event": "Commission to provide guidelines specifying the practical implementation of Article 6"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "The remainder of the AI Act starts to apply"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "Regulation applies to operators of high-risk AI systems"
+        },
+        {
+          "date": "2026-08-02",
+          "event": "Member States to establish at least one AI regulatory sandbox at national level"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "Article 6(1) and the corresponding obligations in the Regulation start to apply"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "Providers of GPAI models must comply with the obligations laid down in this Regulation"
+        },
+        {
+          "date": "2027-08-02",
+          "event": "AI systems which are components of the large-scale IT systems must be brought into compliance with this Regulation by 31 December 2030"
+        },
+        {
+          "date": "2028-08-02",
+          "event": "Commission to evaluate the functioning of the AI Office"
+        },
+        {
+          "date": "2028-08-02",
+          "event": "Commission to evaluate the impact and effectiveness of voluntary codes of conduct"
+        },
+        {
+          "date": "2028-08-02",
+          "event": "Commission to evaluate and report on the need for amendments to Area headings in Annex III, List of AI systems requiring additional transparency measures in Article 50, The supervision and governance system"
+        },
+        {
+          "date": "2028-08-02",
+          "event": "Commission to submit a progress report on ‘standardisation deliverables’"
+        },
+        {
+          "date": "2028-12-01",
+          "event": "Commission to draw up a report on the delegation of power outlined in Article 97"
+        },
+        {
+          "date": "2029-08-01",
+          "event": "The Commission’s power to adopt delegated acts referred to in the following articles expires"
+        },
+        {
+          "date": "2029-08-02",
+          "event": "Commission to submit a report on the evaluation and review of this Regulation"
+        },
+        {
+          "date": "2030-08-02",
+          "event": "Providers and deployers of high-risk AI systems intended to be used by public authorities must comply with the requirements and obligations of this Regulation"
+        },
+        {
+          "date": "2030-12-31",
+          "event": "Deadline for AI systems which are components of the large-scale IT systems to be brought into compliance with this Regulation"
+        },
+        {
+          "date": "2031-08-02",
+          "event": "Commission to carry out an assessment of the enforcement of this Regulation"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/implementation-timeline/"
+    },
+    {
+      "name": "Artificial Intelligence Act (Regulation (EU) 2024/1689)",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-04-25",
+          "change": "Added obligations for Providers of General Purpose AI Models with Systemic Risk"
+        },
+        {
+          "date": "2025-04-16",
+          "change": "Updated form logic for Authorised Representatives and Product Manufacturers"
+        },
+        {
+          "date": "2025-04-15",
+          "change": "Added AI Literacy obligations and Fundamental rights impacts assessment question"
+        },
+        {
+          "date": "2025-04-01",
+          "change": "Refactored the form ordering"
+        },
+        {
+          "date": "2024-03-26",
+          "change": "Fixed a bug for Deployers under Article 29"
+        },
+        {
+          "date": "2024-03-11",
+          "change": "Updated the Compliance Checker to reflect the Final draft of the AI Act"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024",
+          "event": "More information about EU AI Act enforcement in your country will likely be provided"
+        }
+      ],
+      "leader": {
+        "name": "EU Commission",
+        "role": "Regulator",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/"
+    },
+    {
+      "name": "Circularity and the Basel Convention",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "Information Technology Industry Council (ITI)"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/environment-sustainability/circularity-and-the-basel-convention"
+    },
+    {
+      "name": "Sustainable Purchasing",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-02-18",
+          "change": "The Green Grid released a new Data Center Resource Effectiveness metric"
+        },
+        {
+          "date": "2025-02-19",
+          "change": "ITI released policy recommendations for EU's Clean Industrial Deal"
+        },
+        {
+          "date": "2025-04-02",
+          "change": "ITI convened Tech CEOs and Government Leaders at DC’s Premier Tech Policy Summit"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Advocate",
+        "organization": "Information Technology Industry Council"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/environment-sustainability/sustainable-purchasing"
+    },
+    {
+      "name": "EU AI Act",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-06-13",
+          "change": "Official Journal version of the Act published"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "EU Commission",
+        "role": "Proposer",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://artificialintelligenceact.eu/ai-act-explorer/"
+    },
+    {
+      "name": "Eco Friendly Materials Policy",
+      "region": "Global",
+      "status": "In Development",
+      "progress": 50,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Policy Developer",
+        "organization": "Information Technology Industry Council"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/environment-sustainability/eco-friendly-materials"
+    },
+    {
+      "name": "VPAT Training",
+      "region": "Global",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-04-24",
+          "change": "Released new VPAT training presentation"
+        },
+        {
+          "date": "2025-04-24",
+          "change": "Updated VPAT 2.5Rev documents"
+        },
+        {
+          "date": "2025-04-24",
+          "change": "Released new comprehensive training on VPAT"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Provider",
+        "organization": "ITI"
+      },
+      "impact": "Medium",
+      "source": "https://www.itic.org/policy/accessibility/vpat-training"
+    },
+    {
+      "name": "France AI Action Summit",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-02-04",
+          "change": "Announcement of the upcoming France AI Action Summit"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-02-10",
+          "event": "Start of the France AI Action Summit"
+        },
+        {
+          "date": "2025-02-11",
+          "event": "Heads of State and Government meeting at the France AI Action Summit"
+        }
+      ],
+      "leader": {
+        "name": "Courtney Lang",
+        "role": "Policy Analyst",
+        "organization": "ITI"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/news-events/techwonk-blog/meaningfully-advancing-global-ai-governance-what-we-hope-to-see-at-the-france-ai-action-summit"
+    },
+    {
+      "name": "Ethically Aligned Design",
+      "region": "Global",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2019-03-01",
+          "change": "Released by the Institute of Electrical and Electronics Engineers"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Institute of Electrical and Electronics Engineers",
+        "role": "Issuer",
+        "organization": "Institute of Electrical and Electronics Engineers"
+      },
+      "impact": "Low",
+      "source": "https://algorithmwatch.org/en/ieee-ethically-aligned-design-guidelines-fail-to-gain-traction/"
+    },
+    {
+      "name": "Executive Agency Rules & Regulations",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [],
+      "futureMilestones": [
+        {
+          "date": "2025-08-06",
+          "event": "Effective date for bills enacted without a safety clause"
+        }
+      ],
+      "leader": {
+        "name": "Colorado General Assembly",
+        "role": "Rule-making authority",
+        "organization": "Colorado State Government"
+      },
+      "impact": "unknown",
+      "source": "https://leg.colorado.gov/executive-agency-rules-regulations"
+    },
+    {
+      "name": "Implications of Social Media Use on Adolescent Mental Health and Policy Framework",
+      "region": "United States",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "Colorado General Assembly"
+      },
+      "impact": "unknown",
+      "source": "https://leg.colorado.gov/publications/implications-social-media-use-adolescent-mental-health-and-policy-framework"
+    },
+    {
+      "name": "SB24-205",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-05-04",
+          "change": "Recommended for amendment by the Committee"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "House Committee on State, Civic, Military, & Veterans Affairs"
+      },
+      "impact": "unknown",
+      "source": "https://leg.colorado.gov/sites/default/files/2024a_sb205_h_sa_001.pdf"
+    },
+    {
+      "name": "unknown",
+      "region": "United States",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://leg.colorado.gov/audits-by-report-number"
+    },
+    {
+      "name": "ITI Environment & Sustainability Policy",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-04-02",
+          "change": "ITI convened Tech CEOs and Government Leaders at DC’s Premier Tech Policy Summit"
+        },
+        {
+          "date": "2024-10-29",
+          "change": "ITI shared vision for the 2024-2029 EU mandate on tech and sustainability"
+        },
+        {
+          "date": "2024-04-22",
+          "change": "ITI committed to reduce harmful plastic waste and promote circular design"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "ITI",
+        "role": "Policy Advocate",
+        "organization": "ITI"
+      },
+      "impact": "High",
+      "source": "https://www.itic.org/policy/environment-sustainability"
+    },
+    {
+      "name": "UK Science and Technology Framework",
+      "region": "United Kingdom",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2023-03-06",
+          "change": "Framework first published"
+        },
+        {
+          "date": "2024-02-09",
+          "change": "Published update on progress"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2030",
+          "event": "UK to become a science and technology superpower"
+        }
+      ],
+      "leader": {
+        "name": "Department for Science, Innovation and Technology",
+        "role": "unknown",
+        "organization": "UK Government"
+      },
+      "impact": "unknown",
+      "source": "https://www.gov.uk/government/publications/uk-science-and-technology-framework"
+    },
+    {
+      "name": "unknown",
+      "region": "United States",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "Colorado General Assembly"
+      },
+      "impact": "unknown",
+      "source": "https://leg.colorado.gov/content/initiatives/initiatives-blue-book-overview/ballot-information-booklet-blue-book"
+    },
+    {
+      "name": "ITI's AI Policy",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2024-07-01",
+          "change": "Published Dos and Don’ts of AI Procurement"
+        },
+        {
+          "date": "2025-05-07",
+          "change": "Outlined AI Infrastructure importance for U.S. Technological Leadership"
+        },
+        {
+          "date": "2025-04-24",
+          "change": "Discussed Pro-Innovation Code of Practice For Europe’s AI"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "Information Technology Industry Council (ITI)"
+      },
+      "impact": "unknown",
+      "source": "https://www.itic.org/policy/artificial-intelligence"
+    },
+    {
+      "name": "Ethical AI guidelines",
+      "region": "Global",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [
+        {
+          "date": "2019-04-09",
+          "change": "First overview of guidelines published"
+        },
+        {
+          "date": "2019-06-20",
+          "change": "Interim findings presented"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "Medium",
+      "source": "https://algorithmwatch.org/en/ethical-ai-guidelines-binding-commitment-or-simply-window-dressing/"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://www.morganstanley.com/ideas/ai-drug-discovery#:~:text=Biotechs%20are%20applying%20AI%20and,new%20drugs%20is%20costly%20guesswork."
+    },
+    {
+      "name": "Colorado Statewide Initiative Process",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [
+        {
+          "date": "2025-08-06",
+          "event": "Effective date for bills enacted without a safety clause"
+        }
+      ],
+      "leader": {
+        "name": "Colorado General Assembly",
+        "role": "Legislative Body",
+        "organization": "State of Colorado"
+      },
+      "impact": "unknown",
+      "source": "https://leg.colorado.gov/content/initiatives/initiatives-blue-book-overview"
+    },
+    {
+      "name": "AI Governance Research",
+      "region": "United Kingdom",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-03-29",
+          "change": "Research published by CDEI"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Centre for Data Ethics and Innovation",
+        "role": "Researcher",
+        "organization": "UK Government"
+      },
+      "impact": "unknown",
+      "source": "https://www.gov.uk/government/publications/cdei-publishes-research-on-ai-governance"
+    },
+    {
+      "name": "AI Ethics Guidelines Global Inventory",
+      "region": "Global",
+      "status": "In Development",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2020-04-01",
+          "change": "Last update to the inventory"
+        },
+        {
+          "date": "2024-04-01",
+          "change": "Ceased to accept submissions"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "AlgorithmWatch",
+        "role": "Project Leader",
+        "organization": "AlgorithmWatch"
+      },
+      "impact": "unknown",
+      "source": "https://inventory.algorithmwatch.org/"
+    },
+    {
+      "name": "Pro-innovation Regulation of Technologies Review: Digital Technologies",
+      "region": "United Kingdom",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-03-15",
+          "change": "Review published and recommendations accepted by government"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Sir Patrick Vallance",
+        "role": "Reviewer",
+        "organization": "HM Treasury"
+      },
+      "impact": "unknown",
+      "source": "https://www.gov.uk/government/publications/pro-innovation-regulation-of-technologies-review-digital-technologies"
+    },
+    {
+      "name": "Artificial Intelligence sector study 2022",
+      "region": "United Kingdom",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-03-29",
+          "change": "Study published by the Department for Science, Innovation and Technology"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Department for Science, Innovation and Technology",
+        "role": "Publisher",
+        "organization": "UK Government"
+      },
+      "impact": "unknown",
+      "source": "https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2022"
+    },
+    {
+      "name": "Social Media and Children 2025 Legislation",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-04-08",
+          "change": "Legislation updated"
+        },
+        {
+          "date": "2025-01-01",
+          "change": "Over 300 pieces of legislation pending in 45 states and Puerto Rico"
+        },
+        {
+          "date": "2025-01-01",
+          "change": "Arkansas enacted policy on student use of electronic devices"
+        },
+        {
+          "date": "2025-01-01",
+          "change": "California adopted Positive Parenting Awareness month resolution"
+        },
+        {
+          "date": "2025-01-01",
+          "change": "Kentucky created crime of sexual extortion"
+        },
+        {
+          "date": "2025-01-01",
+          "change": "Utah passed legislation on minor's trust and right of action"
+        },
+        {
+          "date": "2025-01-01",
+          "change": "Utah passed legislation on app store providers' responsibilities"
+        },
+        {
+          "date": "2025-01-01",
+          "change": "Virginia passed legislation on social media platform age screening"
+        },
+        {
+          "date": "2025-01-01",
+          "change": "Wyoming requires age verification for harmful websites"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "High",
+      "source": "https://www.ncsl.org/technology-and-communication/social-media-and-children-2025-legislation"
+    },
+    {
+      "name": "Office for Artificial Intelligence – information collection and analysis: privacy notice",
+      "region": "United Kingdom",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-03-29",
+          "change": "Privacy notice published"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Department for Science, Innovation and Technology",
+        "role": "Publisher",
+        "organization": "UK Government"
+      },
+      "impact": "Medium",
+      "source": "https://www.gov.uk/government/publications/office-for-artificial-intelligence-information-collection-and-analysis-privacy-notice"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://www.brookings.edu/about-us/annual-report/"
+    },
+    {
+      "name": "NCSL’s Broadband Database",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-04-29",
+          "change": "Database updated"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "NCSL staff",
+        "role": "Maintainer",
+        "organization": "National Conference of State Legislatures (NCSL)"
+      },
+      "impact": "High",
+      "source": "https://www.ncsl.org/technology-and-communication/broadband-legislation-database"
+    },
+    {
+      "name": "AI Governance Policy",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-05-15",
+          "change": "Bipartisan press conference on AI policy"
+        },
+        {
+          "date": "2022-10-01",
+          "change": "Publication of Blueprint for an AI Bill of Rights"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Chuck Schumer",
+        "role": "U.S. Senate Majority Leader",
+        "organization": "United States Senate"
+      },
+      "impact": "High",
+      "source": "https://www.brookings.edu/articles/what-does-the-2024-election-mean-for-the-future-of-ai-governance/"
+    },
+    {
+      "name": "AI Policy in the Trump Administration and Congress after the 2024 Elections",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2024-11-07",
+          "change": "Major shift in American politics affecting AI policy"
+        },
+        {
+          "date": "2019-02-01",
+          "change": "Trump signed EO 13859, 'Maintaining American Leadership in Artificial Intelligence'"
+        },
+        {
+          "date": "2020-11-01",
+          "change": "OMB issued 'Guidance for Regulation of Artificial Intelligence Applications'"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "unknown",
+          "event": "Repeal and replace of the Biden AI EO"
+        },
+        {
+          "date": "unknown",
+          "event": "Stronger focus on leveraging AI as a geopolitical advantage over China"
+        },
+        {
+          "date": "unknown",
+          "event": "Major nexus between AI policy and energy policy priorities"
+        }
+      ],
+      "leader": {
+        "name": "Donald J. Trump",
+        "role": "President",
+        "organization": "United States Government"
+      },
+      "impact": "High",
+      "source": "https://www.rstreet.org/commentary/ai-policy-in-the-trump-administration-and-congress-after-the-2024-elections/",
+      "category": "NIST RMF General"
+    },
+    {
+      "name": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-10-30",
+          "change": "Executive Order released by the White House"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-01-28",
+          "event": "Department of Commerce to require reporting"
+        }
+      ],
+      "leader": {
+        "name": "Joe Biden",
+        "role": "President",
+        "organization": "United States"
+      },
+      "impact": "High",
+      "source": "https://www.brookings.edu/articles/how-the-white-houses-ai-executive-order-could-increase-u-s-cyber-vulnerabilities/"
+    },
+    {
+      "name": "Legislative Use of Artificial Intelligence",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "NCSL",
+        "role": "Policy Analyst",
+        "organization": "National Conference of State Legislatures"
+      },
+      "impact": "Medium",
+      "source": "https://www.ncsl.org/about-state-legislatures/legislative-use-of-artificial-intelligence"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence"
+    },
+    {
+      "name": "Federal AI Policy",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2025-05-08",
+          "change": "New OMB memos signal continuity in federal AI policy"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "Office of Management and Budget"
+      },
+      "impact": "unknown",
+      "source": "https://www.brookings.edu/programs/governance-studies/"
+    },
+    {
+      "name": "Autonomous Vehicles Legislation Database",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [
+        {
+          "date": "2025-03-10",
+          "change": "Database updated"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "National Highway Traffic Safety Administration",
+        "role": "Supporter",
+        "organization": "U.S. Department of Transportation"
+      },
+      "impact": "unknown",
+      "source": "https://www.ncsl.org/transportation/autonomous-vehicles-legislation-database"
+    },
+    {
+      "name": "Deceptive Audio or Visual Media (‘Deepfakes’) 2024 Legislation",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-11-22",
+          "change": "Updated legislation summary"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://www.ncsl.org/technology-and-communication/deceptive-audio-or-visual-media-deepfakes-2024-legislation"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://www.brookings.edu/topics/technology-policy-and-regulation/"
+    },
+    {
+      "name": "OMB memos on federal AI policy",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2025-04-15",
+          "change": "OMB issued two memos updating federal AI policies"
+        },
+        {
+          "date": "2025-01-23",
+          "change": "President Trump signed an executive order on AI"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Office of Management and Budget",
+        "role": "Policy Issuer",
+        "organization": "White House"
+      },
+      "impact": "unknown",
+      "source": "https://www.brookings.edu/articles/new-omb-memos-signal-continuity-in-federal-ai-policy/"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://www.brookings.edu/topics/democracy-conflict-and-governance/"
+    },
+    {
+      "name": "unknown",
+      "region": "unknown",
+      "status": "unknown",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "unknown"
+      },
+      "impact": "unknown",
+      "source": "https://futureoflife.org/report-a-broken-link/"
+    },
+    {
+      "name": "AI Licensing for a Better Future: On Addressing Both Present Harms and Emerging Threats",
+      "region": "United States",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Encode Justice and the Future of Life Institute",
+        "role": "Proposers",
+        "organization": "Encode Justice and the Future of Life Institute"
+      },
+      "impact": "High",
+      "source": "https://futureoflife.org/open-letter/ai-policy-for-a-better-future-on-addressing-both-present-harms-and-emerging-threats/"
+    },
+    {
+      "name": "AI Policy Challenges",
+      "region": "Global",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Tucker Davey",
+        "role": "Author",
+        "organization": "Future of Life Institute"
+      },
+      "impact": "High",
+      "source": "https://futureoflife.org/resource/ai-policy-challenges-and-recommendations/"
+    },
+    {
+      "name": "U.S. AI Action Plan",
+      "region": "United States",
+      "status": "In Development",
+      "progress": 0,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Jason Van Beek",
+        "role": "Chief Government Affairs Officer",
+        "organization": "Future of Life Institute"
+      },
+      "impact": "unknown",
+      "source": "https://futureoflife.org/document/recommendations-for-ai-action-plan/"
+    },
+    {
+      "name": "AI Standards Hub",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": "unknown",
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "The Alan Turing Institute",
+        "role": "unknown",
+        "organization": "The Alan Turing Institute"
+      },
+      "impact": "unknown",
+      "source": "https://aistandardshub.org/"
+    },
+    {
+      "name": "2022–2026 Strategic Plan: Fostering Creativity and Enriching Culture",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [],
+      "futureMilestones": [],
+      "leader": {
+        "name": "U.S. Copyright Office",
+        "role": "Proposer",
+        "organization": "United States Government"
+      },
+      "impact": "unknown",
+      "source": "https://www.copyright.gov/reports/strategic-plan/"
+    },
+    {
+      "name": "U.S. Copyright Office Annual Reports",
+      "region": "United States",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-09-30",
+          "change": "Released FY 2023 Annual Report"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "U.S. Copyright Office",
+        "role": "Issuer",
+        "organization": "U.S. Copyright Office"
+      },
+      "impact": "High",
+      "source": "https://www.copyright.gov/history/annual_reports.html"
+    },
+    {
+      "name": "Impact of Artificial Intelligence on IP Policy: Call for Comments",
+      "region": "United States",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2019-12-13",
+          "change": "WIPO announced Draft Issues Paper"
+        },
+        {
+          "date": "2019-09-27",
+          "change": "Discussion on IP and AI at WIPO event"
+        },
+        {
+          "date": "2020-02-05",
+          "change": "Symposium on Copyright in the Age of AI"
+        }
+      ],
+      "futureMilestones": [],
+      "leader": {
+        "name": "Maria Strong",
+        "role": "Acting Register of Copyrights and Director",
+        "organization": "United States Copyright Office"
+      },
+      "impact": "High",
+      "source": "https://www.wipo.int/export/sites/www/about-ip/en/artificial_intelligence/call_for_comments/pdf/ms_usa_usco.pdf"
+    },
+    {
+      "name": "CAIDP AI Policy Clinics",
+      "region": "Global",
+      "status": "In Progress",
+      "progress": 50,
+      "recentChanges": [
+        {
+          "date": "2025-04-01",
+          "change": "Opened applications for Fall 2025 cohort"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-09-08",
+          "event": "Fall 2025 cohort classes start"
+        }
+      ],
+      "leader": {
+        "name": "unknown",
+        "role": "unknown",
+        "organization": "Center for AI and Digital Policy (CAIDP)"
+      },
+      "impact": "unknown",
+      "source": "https://www.caidp.org/global-academic-network/ai-policy-clinic/"
+    }
+  ]
+}
