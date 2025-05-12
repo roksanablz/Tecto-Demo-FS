@@ -79,9 +79,9 @@ const modelMetrics: Record<ModelType, ModelMetrics> = {
 };
 
 const complianceFrameworks: ComplianceFramework[] = [
-  { name: 'NIST AI RMF', status: 'Compliant', score: 95 },
-  { name: 'EU AI Act', status: 'In Progress', score: 88 },
-  { name: 'AI Safety Institute', status: 'Compliant', score: 92 }
+  { name: 'NIST AI RMF', status: 'Compliant', score: 92 },
+  { name: 'EU AI Act', status: 'In Progress', score: 85 },
+  { name: 'AI Safety Institute', status: 'Compliant', score: 88 }
 ];
 
 const riskAlerts: RiskAlert[] = [

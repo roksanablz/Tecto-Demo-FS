@@ -94,19 +94,6 @@ const ExploreAITools: React.FC = () => {
     // Sponsored agents (YC alumni highlighted)
     {
       id: 1,
-      name: "Anthropic",
-      type: "Foundation Model",
-      category: "sponsored",
-      subCategory: null,
-      icon: Brain,
-      compliance: 95,
-      trust: 92,
-      risks: ["Model Safety", "Alignment"],
-      certifications: ["AI Safety Certified", "SOC 2"],
-      lastAudit: "2024-03-15"
-    },
-    {
-      id: 2,
       name: "Stability AI",
       type: "Image Generation",
       category: "sponsored",
@@ -115,11 +102,11 @@ const ExploreAITools: React.FC = () => {
       compliance: 88,
       trust: 85,
       risks: ["Content Safety", "Copyright"],
-      certifications: ["Content Safety", "Fair Use"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-02-28"
     },
     {
-      id: 3,
+      id: 2,
       name: "Replit",
       type: "Cloud IDE",
       category: "sponsored",
@@ -127,22 +114,35 @@ const ExploreAITools: React.FC = () => {
       icon: Code,
       compliance: 93,
       trust: 90,
-      risks: ["Security", "Performance"],
-      certifications: ["SOC 2", "ISO 27001"],
+      risks: ["Security", "Performance", "Code Quality"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-01"
     },
     {
-      id: 4,
-      name: "Character.ai",
-      type: "Conversational AI",
+      id: 3,
+      name: "Together AI",
+      type: "AI Infrastructure",
       category: "sponsored",
       subCategory: null,
-      icon: MessageSquare,
-      compliance: 89,
-      trust: 87,
-      risks: ["Content Safety", "User Privacy"],
-      certifications: ["Content Safety", "GDPR Compliant"],
-      lastAudit: "2024-02-15"
+      icon: Cloud,
+      compliance: 93,
+      trust: 90,
+      risks: ["Infrastructure", "Security"],
+      certifications: ["SOC 2"],
+      lastAudit: "2024-03-15"
+    },
+    {
+      id: 4,
+      name: "Pinecone",
+      type: "Vector Database",
+      category: "sponsored",
+      subCategory: null,
+      icon: Database,
+      compliance: 95,
+      trust: 92,
+      risks: ["Data Security", "Performance", "Data Quality"],
+      certifications: ["SOC 2"],
+      lastAudit: "2024-03-14"
     },
 
     // Recommended - AI Development Tools
@@ -156,7 +156,7 @@ const ExploreAITools: React.FC = () => {
       compliance: 96,
       trust: 94,
       risks: ["Infrastructure", "Security"],
-      certifications: ["SOC 2", "ISO 27001"],
+      certifications: ["SOC 2", "ISO 27001", "GDPR Compliant"],
       lastAudit: "2024-03-10"
     },
     {
@@ -168,12 +168,25 @@ const ExploreAITools: React.FC = () => {
       icon: Database,
       compliance: 91,
       trust: 89,
-      risks: ["Model Safety", "Data Privacy"],
-      certifications: ["AI Safety", "GDPR Compliant"],
+      risks: ["Model Safety", "Data Privacy", "Model Bias"],
+      certifications: [],
       lastAudit: "2024-02-20"
     },
     {
       id: 16,
+      name: "Cursor",
+      type: "AI Code Editor",
+      category: "recommended",
+      subCategory: "development",
+      icon: Code,
+      compliance: 92,
+      trust: 91,
+      risks: ["Code Security"],
+      certifications: ["SOC 2"],
+      lastAudit: "2024-03-05"
+    },
+    {
+      id: 17,
       name: "LangChain",
       type: "LLM Framework",
       category: "recommended",
@@ -182,39 +195,13 @@ const ExploreAITools: React.FC = () => {
       compliance: 90,
       trust: 88,
       risks: ["Dependencies", "Security"],
-      certifications: ["Open Source", "Security Audit"],
+      certifications: [],
       lastAudit: "2024-02-25"
-    },
-    {
-      id: 17,
-      name: "Cursor",
-      type: "AI Code Editor",
-      category: "recommended",
-      subCategory: "development",
-      icon: Code,
-      compliance: 92,
-      trust: 91,
-      risks: ["Code Security", "Performance"],
-      certifications: ["SOC 2", "Security Audit"],
-      lastAudit: "2024-03-05"
     },
 
     // Recommended - AI Research & Data
     {
       id: 18,
-      name: "Scale AI",
-      type: "Data Labeling",
-      category: "recommended",
-      subCategory: "research",
-      icon: Database,
-      compliance: 94,
-      trust: 93,
-      risks: ["Data Quality", "Privacy"],
-      certifications: ["SOC 2", "GDPR Compliant"],
-      lastAudit: "2024-03-01"
-    },
-    {
-      id: 19,
       name: "Weights & Biases",
       type: "ML Experimentation",
       category: "recommended",
@@ -223,24 +210,24 @@ const ExploreAITools: React.FC = () => {
       compliance: 93,
       trust: 92,
       risks: ["Data Security", "Performance"],
-      certifications: ["SOC 2", "ISO 27001"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-02-28"
     },
     {
-      id: 20,
-      name: "Determined AI",
-      type: "ML Training",
+      id: 19,
+      name: "Cohere",
+      type: "Language Models",
       category: "recommended",
       subCategory: "research",
       icon: Brain,
-      compliance: 91,
-      trust: 90,
-      risks: ["Resource Usage", "Security"],
-      certifications: ["SOC 2", "Security Audit"],
-      lastAudit: "2024-02-15"
+      compliance: 94,
+      trust: 91,
+      risks: ["Model Safety", "Data Privacy"],
+      certifications: ["SOC 2"],
+      lastAudit: "2024-03-13"
     },
     {
-      id: 21,
+      id: 20,
       name: "Gradient",
       type: "ML Infrastructure",
       category: "recommended",
@@ -248,14 +235,14 @@ const ExploreAITools: React.FC = () => {
       icon: Cloud,
       compliance: 92,
       trust: 91,
-      risks: ["Infrastructure", "Security"],
-      certifications: ["SOC 2", "ISO 27001"],
+      risks: ["Infrastructure"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-01"
     },
 
     // Recommended - AI Business Tools
     {
-      id: 22,
+      id: 21,
       name: "Notion AI",
       type: "Productivity",
       category: "recommended",
@@ -263,22 +250,35 @@ const ExploreAITools: React.FC = () => {
       icon: FileText,
       compliance: 95,
       trust: 94,
-      risks: ["Data Privacy", "Security"],
+      risks: ["Data Privacy", "Content Safety"],
       certifications: ["SOC 2", "GDPR Compliant"],
       lastAudit: "2024-03-10"
     },
     {
-      id: 23,
-      name: "Tome",
-      type: "Presentation AI",
+      id: 22,
+      name: "Glean",
+      type: "Enterprise Search",
       category: "recommended",
       subCategory: "business",
-      icon: FileText,
-      compliance: 90,
-      trust: 89,
-      risks: ["Content Safety", "Privacy"],
-      certifications: ["Content Safety", "GDPR Compliant"],
-      lastAudit: "2024-02-20"
+      icon: Search,
+      compliance: 95,
+      trust: 93,
+      risks: ["Data Security", "Privacy", "Data Quality"],
+      certifications: ["SOC 2"],
+      lastAudit: "2024-03-01"
+    },
+    {
+      id: 23,
+      name: "Runway",
+      type: "Video Editing",
+      category: "recommended",
+      subCategory: "business",
+      icon: Image,
+      compliance: 91,
+      trust: 90,
+      risks: ["Content Safety"],
+      certifications: ["SOC 2"],
+      lastAudit: "2024-03-01"
     },
     {
       id: 24,
@@ -293,19 +293,6 @@ const ExploreAITools: React.FC = () => {
       certifications: ["SOC 2", "GDPR Compliant"],
       lastAudit: "2024-02-28"
     },
-    {
-      id: 25,
-      name: "Runway",
-      type: "Video Editing",
-      category: "recommended",
-      subCategory: "business",
-      icon: Image,
-      compliance: 91,
-      trust: 90,
-      risks: ["Content Safety", "Performance"],
-      certifications: ["Content Safety", "SOC 2"],
-      lastAudit: "2024-03-01"
-    },
 
     // Explore More section - YC-backed AI startups
     {
@@ -317,8 +304,8 @@ const ExploreAITools: React.FC = () => {
       icon: Image,
       compliance: 92,
       trust: 89,
-      risks: ["Model Accuracy", "Performance"],
-      certifications: ["AI Safety", "Content Safety"],
+      risks: ["Model Accuracy", "Content Safety"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-10"
     },
     {
@@ -331,7 +318,7 @@ const ExploreAITools: React.FC = () => {
       compliance: 96,
       trust: 93,
       risks: ["Legal Accuracy", "Data Security"],
-      certifications: ["SOC 2", "ISO 27001"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-12"
     },
     {
@@ -343,8 +330,8 @@ const ExploreAITools: React.FC = () => {
       icon: Code,
       compliance: 93,
       trust: 90,
-      risks: ["Code Security", "Performance"],
-      certifications: ["SOC 2", "Security Audit"],
+      risks: ["Code Security", "Code Quality"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-08"
     },
     {
@@ -357,7 +344,7 @@ const ExploreAITools: React.FC = () => {
       compliance: 91,
       trust: 88,
       risks: ["Output Accuracy", "Data Privacy"],
-      certifications: ["GDPR Compliant", "Research Ethics"],
+      certifications: ["GDPR Compliant"],
       lastAudit: "2024-03-01"
     },
     {
@@ -369,8 +356,8 @@ const ExploreAITools: React.FC = () => {
       icon: FileText,
       compliance: 95,
       trust: 92,
-      risks: ["Content Accuracy", "Integration"],
-      certifications: ["SOC 2", "Content Safety"],
+      risks: ["Content Accuracy"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-05"
     },
     {
@@ -382,8 +369,8 @@ const ExploreAITools: React.FC = () => {
       icon: Bot,
       compliance: 94,
       trust: 91,
-      risks: ["Security", "Performance"],
-      certifications: ["SOC 2", "AI Safety"],
+      risks: ["Security", "Agent Safety"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-07"
     },
     {
@@ -396,7 +383,7 @@ const ExploreAITools: React.FC = () => {
       compliance: 93,
       trust: 90,
       risks: ["Code Quality", "Security"],
-      certifications: ["SOC 2", "Security Audit"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-03"
     },
     {
@@ -409,7 +396,7 @@ const ExploreAITools: React.FC = () => {
       compliance: 92,
       trust: 89,
       risks: ["Data Privacy", "Output Accuracy"],
-      certifications: ["GDPR Compliant", "AI Safety"],
+      certifications: ["GDPR Compliant"],
       lastAudit: "2024-03-02"
     },
     {
@@ -422,7 +409,7 @@ const ExploreAITools: React.FC = () => {
       compliance: 91,
       trust: 88,
       risks: ["Content Safety", "Data Privacy"],
-      certifications: ["Content Safety", "GDPR Compliant"],
+      certifications: ["GDPR Compliant"],
       lastAudit: "2024-03-04"
     },
     {
@@ -434,52 +421,12 @@ const ExploreAITools: React.FC = () => {
       icon: Code,
       compliance: 94,
       trust: 91,
-      risks: ["Code Security", "Performance"],
-      certifications: ["SOC 2", "Security Audit"],
+      risks: ["Code Security"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-06"
     },
-    // Additional YC-backed AI startups
     {
       id: 133,
-      name: "Together AI",
-      type: "AI Infrastructure",
-      category: "explore",
-      subCategory: null,
-      icon: Cloud,
-      compliance: 93,
-      trust: 90,
-      risks: ["Infrastructure", "Security"],
-      certifications: ["SOC 2", "ISO 27001"],
-      lastAudit: "2024-03-15"
-    },
-    {
-      id: 134,
-      name: "Pinecone",
-      type: "Vector Database",
-      category: "explore",
-      subCategory: null,
-      icon: Database,
-      compliance: 95,
-      trust: 92,
-      risks: ["Data Security", "Performance"],
-      certifications: ["SOC 2", "ISO 27001"],
-      lastAudit: "2024-03-14"
-    },
-    {
-      id: 135,
-      name: "Cohere",
-      type: "Language Models",
-      category: "explore",
-      subCategory: null,
-      icon: Brain,
-      compliance: 94,
-      trust: 91,
-      risks: ["Model Safety", "Data Privacy"],
-      certifications: ["AI Safety", "SOC 2"],
-      lastAudit: "2024-03-13"
-    },
-    {
-      id: 136,
       name: "Assembly AI",
       type: "Speech Recognition",
       category: "explore",
@@ -492,7 +439,7 @@ const ExploreAITools: React.FC = () => {
       lastAudit: "2024-03-12"
     },
     {
-      id: 137,
+      id: 134,
       name: "Mistral AI",
       type: "Open Source LLMs",
       category: "explore",
@@ -501,11 +448,11 @@ const ExploreAITools: React.FC = () => {
       compliance: 91,
       trust: 88,
       risks: ["Model Safety", "Security"],
-      certifications: ["Open Source", "AI Safety"],
+      certifications: [],
       lastAudit: "2024-03-11"
     },
     {
-      id: 138,
+      id: 135,
       name: "Perplexity AI",
       type: "Search Engine",
       category: "explore",
@@ -514,11 +461,11 @@ const ExploreAITools: React.FC = () => {
       compliance: 93,
       trust: 90,
       risks: ["Output Accuracy", "Data Privacy"],
-      certifications: ["GDPR Compliant", "Content Safety"],
+      certifications: ["GDPR Compliant", "SOC 2"],
       lastAudit: "2024-03-10"
     },
     {
-      id: 139,
+      id: 136,
       name: "Inflection AI",
       type: "Personal AI",
       category: "explore",
@@ -527,11 +474,11 @@ const ExploreAITools: React.FC = () => {
       compliance: 96,
       trust: 93,
       risks: ["Privacy", "Content Safety"],
-      certifications: ["AI Safety", "GDPR Compliant"],
+      certifications: ["GDPR Compliant", "SOC 2"],
       lastAudit: "2024-03-09"
     },
     {
-      id: 140,
+      id: 137,
       name: "Adept AI",
       type: "AI Agents",
       category: "explore",
@@ -539,12 +486,12 @@ const ExploreAITools: React.FC = () => {
       icon: Bot,
       compliance: 92,
       trust: 89,
-      risks: ["Agent Safety", "Performance"],
-      certifications: ["AI Safety", "SOC 2"],
+      risks: ["Agent Safety"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-08"
     },
     {
-      id: 141,
+      id: 138,
       name: "Imbue",
       type: "Reasoning AI",
       category: "explore",
@@ -553,11 +500,11 @@ const ExploreAITools: React.FC = () => {
       compliance: 94,
       trust: 91,
       risks: ["Reasoning Accuracy", "Safety"],
-      certifications: ["AI Safety", "SOC 2"],
+      certifications: [],
       lastAudit: "2024-03-07"
     },
     {
-      id: 142,
+      id: 139,
       name: "Contextual AI",
       type: "Enterprise AI",
       category: "explore",
@@ -565,12 +512,12 @@ const ExploreAITools: React.FC = () => {
       icon: Building2,
       compliance: 95,
       trust: 92,
-      risks: ["Data Security", "Integration"],
-      certifications: ["SOC 2", "ISO 27001"],
+      risks: ["Data Security"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-06"
     },
     {
-      id: 143,
+      id: 140,
       name: "Tome AI",
       type: "Presentation AI",
       category: "explore",
@@ -579,11 +526,11 @@ const ExploreAITools: React.FC = () => {
       compliance: 93,
       trust: 90,
       risks: ["Content Safety", "Data Privacy"],
-      certifications: ["Content Safety", "GDPR Compliant"],
+      certifications: ["GDPR Compliant"],
       lastAudit: "2024-03-05"
     },
     {
-      id: 144,
+      id: 141,
       name: "Mem AI",
       type: "Knowledge Management",
       category: "explore",
@@ -596,7 +543,7 @@ const ExploreAITools: React.FC = () => {
       lastAudit: "2024-03-04"
     },
     {
-      id: 145,
+      id: 142,
       name: "Runway AI",
       type: "Video Generation",
       category: "explore",
@@ -604,12 +551,12 @@ const ExploreAITools: React.FC = () => {
       icon: Image,
       compliance: 92,
       trust: 89,
-      risks: ["Content Safety", "Performance"],
-      certifications: ["Content Safety", "SOC 2"],
+      risks: ["Content Safety"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-03-03"
     },
     {
-      id: 146,
+      id: 143,
       name: "Descript",
       type: "Audio/Video Editing",
       category: "explore",
@@ -618,24 +565,11 @@ const ExploreAITools: React.FC = () => {
       compliance: 91,
       trust: 88,
       risks: ["Content Safety", "Data Privacy"],
-      certifications: ["Content Safety", "GDPR Compliant"],
+      certifications: ["GDPR Compliant"],
       lastAudit: "2024-03-02"
     },
     {
-      id: 147,
-      name: "Glean",
-      type: "Enterprise Search",
-      category: "explore",
-      subCategory: null,
-      icon: Search,
-      compliance: 95,
-      trust: 93,
-      risks: ["Data Security", "Privacy"],
-      certifications: ["SOC 2", "ISO 27001"],
-      lastAudit: "2024-03-01"
-    },
-    {
-      id: 148,
+      id: 144,
       name: "Loom",
       type: "Video Communication",
       category: "explore",
@@ -648,20 +582,7 @@ const ExploreAITools: React.FC = () => {
       lastAudit: "2024-02-29"
     },
     {
-      id: 149,
-      name: "Notion AI",
-      type: "Productivity AI",
-      category: "explore",
-      subCategory: null,
-      icon: FileText,
-      compliance: 96,
-      trust: 94,
-      risks: ["Data Privacy", "Security"],
-      certifications: ["SOC 2", "GDPR Compliant"],
-      lastAudit: "2024-02-28"
-    },
-    {
-      id: 150,
+      id: 145,
       name: "Coda",
       type: "Document Collaboration",
       category: "explore",
@@ -669,8 +590,8 @@ const ExploreAITools: React.FC = () => {
       icon: FileText,
       compliance: 93,
       trust: 91,
-      risks: ["Data Security", "Integration"],
-      certifications: ["SOC 2", "ISO 27001"],
+      risks: ["Data Security"],
+      certifications: ["SOC 2"],
       lastAudit: "2024-02-27"
     }
   ];
