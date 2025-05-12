@@ -106,3 +106,53 @@ You can obtain these credentials from:
 ## License
 
 MIT License
+
+## Deployment
+
+### Deploying to Vercel
+
+1. Install Vercel CLI (optional):
+```bash
+npm install -g vercel
+```
+
+2. Deploy using one of these methods:
+
+#### Method 1: Using Vercel Dashboard (Recommended)
+1. Push your code to GitHub
+2. Go to [Vercel Dashboard](https://vercel.com/dashboard)
+3. Click "New Project"
+4. Import your GitHub repository
+5. Configure your environment variables (copy from your `.env` file)
+6. Click "Deploy"
+
+#### Method 2: Using Vercel CLI
+1. Login to Vercel:
+```bash
+vercel login
+```
+
+2. Deploy the project:
+```bash
+vercel
+```
+
+3. Follow the CLI prompts to:
+   - Set up and deploy
+   - Configure environment variables
+   - Choose your team and project name
+
+The app will be automatically deployed and you'll receive a production URL.
+
+### Environment Variables in Production
+
+Make sure to add all your environment variables in the Vercel dashboard:
+- `GOOGLE_API_KEY`
+- `GOOGLE_CSE_ID`
+- `OPENAI_API_KEY`
+- `CONGRESS_GOV_API_KEY`
+
+You can add these in:
+1. Project Settings → Environment Variables
+2. Add each variable with its corresponding value
+3. Select the environments where they should be available (Production, Preview, Development)
