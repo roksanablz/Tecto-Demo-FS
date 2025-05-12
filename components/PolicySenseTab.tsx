@@ -85,7 +85,7 @@ const PolicySenseTab = () => {
   const [openTooltip, setOpenTooltip] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('http://localhost:3001/api/policies')
+    fetch('/api/policies')
       .then(res => res.json())
       .then(data => {
         setPolicies(data.policies || []);
