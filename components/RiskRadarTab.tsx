@@ -77,11 +77,11 @@ const RiskRadar = () => {
         mitigationStatus: 'Resolved',
         riskLevel: 'Low',
         monthlyIncidents: [
-          { month: 'Sep', incidents: 1 },
-          { month: 'Oct', incidents: 1 },
-          { month: 'Nov', incidents: 0 },
-          { month: 'Dec', incidents: 0 },
-          { month: 'Jan', incidents: 0 }
+          { month: 'Sep', incidents: 3 },
+          { month: 'Oct', incidents: 2 },
+          { month: 'Nov', incidents: 4 },
+          { month: 'Dec', incidents: 2 },
+          { month: 'Jan', incidents: 1 }
         ]
       },
       {
@@ -110,9 +110,9 @@ const RiskRadar = () => {
         riskLevel: 'Medium',
         monthlyIncidents: [
           { month: 'Sep', incidents: 5 },
-          { month: 'Oct', incidents: 4 },
-          { month: 'Nov', incidents: 3 },
-          { month: 'Dec', incidents: 2 },
+          { month: 'Oct', incidents: 7 },
+          { month: 'Nov', incidents: 4 },
+          { month: 'Dec', incidents: 3 },
           { month: 'Jan', incidents: 1 }
         ]
       },
@@ -149,11 +149,11 @@ const RiskRadar = () => {
         mitigationStatus: 'In Progress',
         riskLevel: 'High',
         monthlyIncidents: [
-          { month: 'Sep', incidents: 12 },
-          { month: 'Oct', incidents: 10 },
-          { month: 'Nov', incidents: 8 },
-          { month: 'Dec', incidents: 6 },
-          { month: 'Jan', incidents: 4 }
+          { month: 'Sep', incidents: 8 },
+          { month: 'Oct', incidents: 12 },
+          { month: 'Nov', incidents: 9 },
+          { month: 'Dec', incidents: 5 },
+          { month: 'Jan', incidents: 1 }
         ]
       }
     ]
@@ -167,7 +167,8 @@ const RiskRadar = () => {
     const monthlyAggregates: Record<string, AggregateMonthData> = {};
 
     // Initialize with all months
-    deployedTools.selectedTools[0].monthlyIncidents.forEach(({ month }) => {
+    const months = ['Sep', 'Oct', 'Nov', 'Dec', 'Jan'];
+    months.forEach(month => {
       monthlyAggregates[month] = {
         month,
         total: 0,
@@ -181,6 +182,8 @@ const RiskRadar = () => {
     deployedTools.selectedTools.forEach(tool => {
       tool.monthlyIncidents.forEach(({ month, incidents }) => {
         monthlyAggregates[month].total += incidents;
+        
+        // Add incidents to the appropriate risk level category
         switch (tool.riskLevel.toLowerCase()) {
           case 'high':
             monthlyAggregates[month].high += incidents;
@@ -195,7 +198,8 @@ const RiskRadar = () => {
       });
     });
 
-    return Object.values(monthlyAggregates);
+    // Return sorted months
+    return months.map(month => monthlyAggregates[month]);
   };
 
   const aggregateData = calculateAggregateData();
@@ -284,9 +288,9 @@ const RiskRadar = () => {
 
           <Card>
             <CardHeader>
-              <CardTitle className="text-lg flex items-center justify-between">
+              <CardTitle className="text-lg flex items-center justify-between w-full">
                 <span>Historical Risk Trend</span>
-                <div className="flex items-center gap-2 text-sm">
+                <div className="flex items-center gap-2 text-sm ml-4">
                   {latestMonthChange.isPositive ? (
                     <TrendingUp className="w-4 h-4 text-red-600" />
                   ) : (
