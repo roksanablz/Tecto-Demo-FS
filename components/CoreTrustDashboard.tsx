@@ -123,7 +123,7 @@ const CoreTrustDashboard = ({ onLogout }) => {
         </TabsContent>
 
         <TabsContent value="agents">
-          {isYCDemo ? <ExploreAIToolsTab_YC /> : <ExploreAIToolsTab />}
+          <ExploreAIToolsTab_YC /> 
         </TabsContent>
 
         <TabsContent value="policy">
