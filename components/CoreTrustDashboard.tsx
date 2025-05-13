@@ -95,7 +95,7 @@ const CoreTrustDashboard = ({ onLogout }) => {
       <Tabs value={activeTab} onValueChange={setActiveTab} className="w-full">
         <div className="flex justify-between items-center">
           <div>
-            <h1 className="text-2xl font-bold">CoreTrust <span className="text-sm text-gray-500">by Tecto AI</span></h1>
+            <h1 className="text-2xl font-bold">AI Resources <span className="text-sm text-gray-500">by Tecto AI</span></h1>
             <div className="flex items-center gap-2">
               <p className="text-gray-500">Discover, on-board, monitor</p>
               <span className="text-gray-400">•</span>
