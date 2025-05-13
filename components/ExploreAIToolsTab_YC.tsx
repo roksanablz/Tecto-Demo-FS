@@ -32,7 +32,8 @@ import {
   Workflow,
   Search,
   Cloud,
-  LucideIcon
+  LucideIcon,
+  Info
 } from 'lucide-react';
 
 // Define the Agent type for type safety
@@ -50,9 +51,44 @@ interface Agent {
   lastAudit: string;
 }
 
+// Info Tooltip component
+const InfoTooltip = ({ 
+  description, 
+  isOpen, 
+  onClick 
+}: { 
+  description: string, 
+  isOpen: boolean, 
+  onClick: () => void 
+}) => (
+  <div className="relative">
+    <button 
+      onClick={onClick}
+      className="ml-2 text-gray-400 hover:text-gray-600 focus:outline-none"
+    >
+      <Info className="h-4 w-4" />
+    </button>
+    
+    {isOpen && (
+      <div className="absolute z-10 w-64 p-3 text-sm bg-white border rounded-md shadow-lg top-6 left-0">
+        <p>{description}</p>
+      </div>
+    )}
+  </div>
+);
+
 const ExploreAITools: React.FC = () => {
   const [selectedAgent, setSelectedAgent] = useState<Agent | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
+  const [openTooltip, setOpenTooltip] = useState<string | null>(null);
+
+  const toggleTooltip = (metric: string) => {
+    if (openTooltip === metric) {
+      setOpenTooltip(null);
+    } else {
+      setOpenTooltip(metric);
+    }
+  };
 
   const generateAgent = (
     id: number, 
@@ -608,7 +644,7 @@ const ExploreAITools: React.FC = () => {
         >
           <div className="bg-white rounded-lg shadow-md p-4 flex flex-col items-center">
             <div className="relative w-16 h-16 mb-2 flex items-center justify-center">
-              <IconComponent className="w-10 h-10 text-blue-500" />
+              <IconComponent className={`w-10 h-10 ${agent.category === 'explore' ? 'text-gray-300' : 'text-blue-500'}`} />
             </div>
             <span className="text-sm font-medium text-center">{agent.name}</span>
           </div>
@@ -685,18 +721,13 @@ const ExploreAITools: React.FC = () => {
 
   return (
     <div className="w-full max-w-7xl mx-auto p-6 space-y-8">
-      <div>
-        <h1 className="text-2xl font-bold">Explore AI Tools</h1>
-        <p className="text-gray-500">Discover and evaluate safe AI tools for maximum ROI</p>
-      </div>
-
       {/* Search Bar */}
       <div className="relative">
         <div className="relative max-w-xl mx-auto">
           <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 h-4 w-4" />
           <Input
             type="text"
-            placeholder="Search AI tools by category (e.g., Marketing, Analytics, Supply Chain)..."
+            placeholder="Search AI tools ..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             className="pl-10 py-6"
@@ -721,6 +752,11 @@ const ExploreAITools: React.FC = () => {
           <h2 className="text-lg font-semibold text-gray-700 flex items-center">
             <Shield className="w-5 h-5 text-blue-500 mr-2" />
             Recommended
+            <InfoTooltip 
+              description="Curated selection of AI tools that meet our high standards for security, compliance, and performance. These tools are also tailored to your specific needs and preferences."
+              isOpen={openTooltip === 'recommended'}
+              onClick={() => toggleTooltip('recommended')}
+            />
           </h2>
           
           {/* Development Tools Subcategory */}
@@ -751,7 +787,7 @@ const ExploreAITools: React.FC = () => {
         {/* Explore More Section */}
         <div className="space-y-4">
           <h2 className="text-lg font-semibold text-gray-700 flex items-center">
-            <Bot className="w-5 h-5 text-gray-500 mr-2" />
+            <Bot className="w-5 h-5 text-blue-500 mr-2" />
             Explore More
           </h2>
           <div className="grid grid-cols-4 gap-4">

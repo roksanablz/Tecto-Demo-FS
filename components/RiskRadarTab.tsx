@@ -160,7 +160,7 @@ const RiskRadar = () => {
   });
 
   // Track which tool is selected for detailed view
-  const [selectedToolId, setSelectedToolId] = useState<number | null>(null);
+  const [selectedToolId, setSelectedToolId] = useState<number | null>(1);
 
   // Calculate aggregate metrics
   const calculateAggregateData = (): AggregateMonthData[] => {
