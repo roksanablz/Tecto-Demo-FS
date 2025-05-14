@@ -1,6 +1,8 @@
+const path = require('path');
+const file_name = 'FS_ai_policies_2025_sorted.json';
+const file_path = path.join(__dirname, '..', 'policy-data', file_name);
 const express = require('express');
 const fs = require('fs');
-const path = require('path');
 
 const app = express();
 
@@ -8,10 +10,9 @@ const cors = require('cors');
 app.use(cors());
 
 app.get('/api/policies', (req, res) => {
-  const filePath = path.join(__dirname, '..', 'YC-data', 'yc_ai_policies_2025_sorted.json');
-  fs.readFile(filePath, 'utf-8', (err, data) => {
+  fs.readFile(file_path, 'utf-8', (err, data) => {
     if (err) {
-      console.error('Error reading yc_ai_policies_2025_sorted.json:', err);
+      console.error('Error reading ${file_name}:', err);
       return res.status(500).json({ error: 'Failed to read policy data' });
     }
     res.setHeader('Content-Type', 'application/json');

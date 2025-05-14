@@ -1,0 +1,255 @@
+{
+  "lastUpdated": "2024-03-19T21:18:37.110569Z",
+  "policies": [
+    {
+      "name": "SEC AI Risk Alert",
+      "region": "United States",
+      "status": "Active",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-02-13",
+          "change": "SEC Division of Examinations issued risk alert on AI use in investment advice"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-12-31",
+          "event": "Expected completion of targeted examinations"
+        }
+      ],
+      "leader": {
+        "name": "Gary Gensler",
+        "role": "Chair",
+        "organization": "U.S. Securities and Exchange Commission"
+      },
+      "impact": "High",
+      "source": "https://www.sec.gov/files/ai-risk-alert.pdf"
+    },
+    {
+      "name": "UK FCA AI Discussion Paper",
+      "region": "United Kingdom",
+      "status": "In Progress",
+      "progress": 75,
+      "recentChanges": [
+        {
+          "date": "2024-02-14",
+          "change": "Published discussion paper on AI and machine learning in financial services"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-05-14",
+          "event": "Deadline for feedback on discussion paper"
+        }
+      ],
+      "leader": {
+        "name": "Nikhil Rathi",
+        "role": "Chief Executive",
+        "organization": "Financial Conduct Authority"
+      },
+      "impact": "High",
+      "source": "https://www.fca.org.uk/publication/discussion/dp24-2.pdf"
+    },
+    {
+      "name": "EU AI Act Financial Services Provisions",
+      "region": "European Union",
+      "status": "Enacted",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2024-03-13",
+          "change": "European Parliament approved AI Act with specific provisions for financial services"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2025-02-13",
+          "event": "Implementation deadline for high-risk AI systems"
+        }
+      ],
+      "leader": {
+        "name": "European Commission",
+        "role": "Regulator",
+        "organization": "European Union"
+      },
+      "impact": "High",
+      "source": "https://www.europarl.europa.eu/news/en/press-room/20240313IPR19004/artificial-intelligence-act-meps-adopt-landmark-law"
+    },
+    {
+      "name": "MAS AI Governance Framework",
+      "region": "Singapore",
+      "status": "Active",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-11-30",
+          "change": "Updated AI governance framework for financial institutions"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-12-31",
+          "event": "Implementation review period"
+        }
+      ],
+      "leader": {
+        "name": "Ravi Menon",
+        "role": "Managing Director",
+        "organization": "Monetary Authority of Singapore"
+      },
+      "impact": "High",
+      "source": "https://www.mas.gov.sg/publications/monographs-or-information-paper/2023/feat-principles-to-promote-responsible-ai"
+    },
+    {
+      "name": "Federal Reserve AI Risk Management Principles",
+      "region": "United States",
+      "status": "Active",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-12-18",
+          "change": "Released principles for managing AI risks in financial services"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-12-31",
+          "event": "Expected review of implementation"
+        }
+      ],
+      "leader": {
+        "name": "Jerome Powell",
+        "role": "Chair",
+        "organization": "Federal Reserve"
+      },
+      "impact": "High",
+      "source": "https://www.federalreserve.gov/publications/2023-ai-risk-management-principles.htm"
+    },
+    {
+      "name": "FSB AI and Machine Learning Report",
+      "region": "Global",
+      "status": "Active",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-11-28",
+          "change": "Published report on AI and machine learning in financial services"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-12-31",
+          "event": "Follow-up assessment of implementation"
+        }
+      ],
+      "leader": {
+        "name": "Klaas Knot",
+        "role": "Chair",
+        "organization": "Financial Stability Board"
+      },
+      "impact": "High",
+      "source": "https://www.fsb.org/2023/11/artificial-intelligence-and-machine-learning-in-financial-services/"
+    },
+    {
+      "name": "OSFI AI Risk Management Guideline",
+      "region": "Canada",
+      "status": "Active",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-09-28",
+          "change": "Published guideline on AI risk management for financial institutions"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-09-28",
+          "event": "Implementation review"
+        }
+      ],
+      "leader": {
+        "name": "Peter Routledge",
+        "role": "Superintendent",
+        "organization": "Office of the Superintendent of Financial Institutions"
+      },
+      "impact": "High",
+      "source": "https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/e23.aspx"
+    },
+    {
+      "name": "Hong Kong SFC AI Guidelines",
+      "region": "Hong Kong",
+      "status": "Active",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-08-31",
+          "change": "Published guidelines on AI and big data analytics in risk management"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-08-31",
+          "event": "Implementation review"
+        }
+      ],
+      "leader": {
+        "name": "Julia Leung",
+        "role": "Chief Executive",
+        "organization": "Securities and Futures Commission"
+      },
+      "impact": "Medium",
+      "source": "https://www.sfc.hk/en/News/ESG/2023/20230831-1"
+    },
+    {
+      "name": "CFTC AI and Machine Learning Report",
+      "region": "United States",
+      "status": "Active",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-07-25",
+          "change": "Published report on AI and machine learning in derivatives markets"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-07-25",
+          "event": "Follow-up assessment"
+        }
+      ],
+      "leader": {
+        "name": "Rostin Behnam",
+        "role": "Chairman",
+        "organization": "Commodity Futures Trading Commission"
+      },
+      "impact": "Medium",
+      "source": "https://www.cftc.gov/PressRoom/PressReleases/8773-23"
+    },
+    {
+      "name": "Basel Committee AI Risk Principles",
+      "region": "Global",
+      "status": "Active",
+      "progress": 100,
+      "recentChanges": [
+        {
+          "date": "2023-06-30",
+          "change": "Published principles for the effective management and supervision of climate-related financial risks"
+        }
+      ],
+      "futureMilestones": [
+        {
+          "date": "2024-12-31",
+          "event": "Implementation assessment"
+        }
+      ],
+      "leader": {
+        "name": "Pablo Hernández de Cos",
+        "role": "Chair",
+        "organization": "Basel Committee on Banking Supervision"
+      },
+      "impact": "High",
+      "source": "https://www.bis.org/bcbs/publ/d565.htm"
+    }
+  ]
+} 

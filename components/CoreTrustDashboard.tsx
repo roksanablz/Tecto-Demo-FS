@@ -4,11 +4,10 @@ import React, { useState } from 'react';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { AlertCircle } from 'lucide-react';
-import DashboardTab from './DashboardTab';
-import ExploreAIToolsTab from './ExploreAIToolsTab';
-import ExploreAIToolsTab_YC from './ExploreAIToolsTab_YC';
+import DashboardTab from './DashboardTab_FS';
+import ExploreAIToolsTab from './ExploreAIToolsTab_FS';
 import PolicySenseTab from './PolicySenseTab';
-import RiskRadarTab from './RiskRadarTab';
+import RiskRadarTab from './RiskRadarTab_FS';
 
 const LoginPage = ({ onLogin }) => {
   const [credentials, setCredentials] = useState({ username: '', password: '' });
@@ -16,10 +15,10 @@ const LoginPage = ({ onLogin }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (credentials.username === 'yc' && credentials.password === 'yc') {
+    if (credentials.username === '' && credentials.password === '') {
       onLogin();
     } else {
-      setError('Invalid credentials. Try yc/yc');
+      setError('Invalid credentials. Try demo/pass');
     }
   };
 
@@ -76,9 +75,6 @@ const LoginPage = ({ onLogin }) => {
             >
               Sign In
             </button>
-            <p className="text-sm text-gray-500 text-center mt-4">
-              Demo credentials: yc/yc
-            </p>
           </form>
         </CardContent>
       </Card>
@@ -98,8 +94,8 @@ const CoreTrustDashboard = ({ onLogout }) => {
             <h1 className="text-2xl font-bold">AI Resources <span className="text-sm text-gray-500">by Tecto AI</span></h1>
             <div className="flex items-center gap-2">
               <p className="text-gray-500">Discover, on-board, monitor</p>
-              <span className="text-gray-400">•</span>
-              <p className="text-gray-600 font-medium">Y Combinator</p>
+              {/* <span className="text-gray-400">•</span>
+              <p className="text-gray-600 font-medium">Y Combinator</p> */}
             </div>
           </div>
           <div className="flex items-center gap-4">
@@ -123,7 +119,7 @@ const CoreTrustDashboard = ({ onLogout }) => {
         </TabsContent>
 
         <TabsContent value="agents">
-          <ExploreAIToolsTab_YC /> 
+          <ExploreAIToolsTab /> 
         </TabsContent>
 
         <TabsContent value="policy">
