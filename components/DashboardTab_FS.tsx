@@ -79,9 +79,10 @@ const modelMetrics: Record<ModelType, ModelMetrics> = {
 };
 
 const complianceFrameworks: ComplianceFramework[] = [
-  { name: 'Basel III', status: 'Compliant', score: 95 },
-  { name: 'MiFID II', status: 'Compliant', score: 92 },
-  { name: 'FCA Guidelines', status: 'In Progress', score: 88 }
+  { name: 'PCI DSS', status: 'Compliant', score: 94 },
+  { name: 'ISO 27001', status: 'Compliant', score: 95 },
+  { name: 'GDPR', status: 'In Progress', score: 88 },
+  { name: 'SOC 2', status: 'Compliant', score: 92 }
 ];
 
 const riskAlerts: RiskAlert[] = [
