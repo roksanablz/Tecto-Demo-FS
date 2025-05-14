@@ -93,7 +93,7 @@ const CoreTrustDashboard = ({ onLogout }) => {
           <div>
             <h1 className="text-2xl font-bold">AI Resources <span className="text-sm text-gray-500">by Tecto AI</span></h1>
             <div className="flex items-center gap-2">
-              <p className="text-gray-500">Discover, on-board, monitor</p>
+              <p className="text-gray-500">Discover, vet, monitor</p>
               {/* <span className="text-gray-400">•</span>
               <p className="text-gray-600 font-medium">Y Combinator</p> */}
             </div>
